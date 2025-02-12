@@ -4,7 +4,8 @@
       <div class="z-10 grid place-content-center bg-white/50 lg:bg-[#04151E]">
         <div class="p-20 text-white">
           <!-- <img class="" src="/public/media/DD.svg" alt="" /> -->
-          <p>Alberte Stærmose</p>
+          <h1>Alberte STærmose</h1>
+          <p>Creative Designer</p>
         </div>
       </div>
 

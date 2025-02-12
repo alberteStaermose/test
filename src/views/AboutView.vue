@@ -13,16 +13,17 @@
         <h2>Hvem er jeg?</h2>
         <p>
           Mit navn er Alberte Stærmose. Jeg er uddannet Multimediedesigner fra
-          KEA - Københavns Erhvervsakademi, og studerer lige nu Coded Design på
-          DMJX - Danamarks Medie- og Journalisthøjskole. Som digital designer
-          arbejder jeg altid struktureret og konsekvent. Jeg kan arbejde
-          selvstændigt, men er også en teamplayer. Med min uddannelse som
-          multimediedesigner kan jeg kode, lave grafisk materiale, tage billeder
-          og lave video til hjemmesider mm. Alt laves til rette målgruppe, med
-          et visuelt design, der passer til den visuelle identitet. Med Coded
-          Design har jeg, og udvider fortsat min kode erfaring. Jeg arbejder med
-          både processing og frontend-kode og kan bruge koden aktivt og
-          kreativt. Udover kode har jeg erfaring med adobepakken og Blender.
+          KEA - Københavns Erhvervsakademi, og studerer lige nu Design og
+          Business på studieretningen Creative Branding på KEA - Københavns
+          Erhvervsakademi. Som kreativ designer arbejder jeg altid struktureret
+          og konsekvent. Jeg er en teamplayer, men kan også arbejde
+          selvstendigt. Mulitmediedesign har givet mig kompetencer indenfor
+          hjemmesideopsætning, UX, UI og kode, hvor jeg på Creative Branding har
+          fået kompetencer indenfor det strategiske og det kreative omkring
+          brandingprocessen, kampagner, kampagnestrategi, brandstrategi,
+          visuelle og verbale identiteter og aktivering af det på kanaler og
+          platforme. Jeg går til alle projekter velplanlagt og struktureret og
+          alt udvikles og baseres på dybdegående research.
         </p>
       </div>
 
