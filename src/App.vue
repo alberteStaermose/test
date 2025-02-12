@@ -7,7 +7,9 @@ import HelloWorld from "./components/HelloWorld.vue";
 <template>
   <header class="sticky top-0 z-20 hidden lg:block">
     <nav class="grid grid-cols-8 pl-5 pr-5 absolute top-0 w-full">
-      <RouterLink class="custom-button" to="/"></RouterLink>
+      <RouterLink class="custom-button" to="/">
+        <img src="/media/A2.svg" alt="" />
+      </RouterLink>
       <RouterLink class="custom-button" to="/about">About</RouterLink>
     </nav>
   </header>
