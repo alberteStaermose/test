@@ -27,8 +27,18 @@
         </p>
       </div>
 
-      <div>
-        <!-- <img src="/media/A.svg" alt="" /> -->
+      <div class="grid">
+        <h3 class="grid text-center content-center">Mine kompetencer</h3>
+        <ul class="list-disc list-inside grid text-left justify-center pl-3">
+          <li>Adobe</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Processing</li>
+          <li>Tailwind</li>
+          <li>Figma</li>
+          <li>MM.</li>
+        </ul>
       </div>
 
       <!-- <div><img src="/media/mig.jpg" alt="" /></div> -->
