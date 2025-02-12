@@ -4,7 +4,7 @@
       <div class="z-10 grid place-content-center bg-white/50 lg:bg-[#04151E]">
         <div class="p-20 text-white">
           <!-- <img class="" src="/public/media/DD.svg" alt="" /> -->
-          <p>Alberte Stærmose test</p>
+          <p>Alberte Stærmose</p>
         </div>
       </div>
 
