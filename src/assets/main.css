@@ -75,24 +75,31 @@ li {
 }
 
 .custom-button {
-  display: grid;
-  text-align: center;
-  place-items: center;
+  display: flex;
+  width: 100px; /* Set a fixed width */
+  height: 100px; /* Set the same height for a perfect circle */
+  border-radius: 50%;
+  border-radius: 50%; /* Makes it a circle */
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer; /* Pointer on hover */
+
   background: linear-gradient(to bottom right, #1549ff, #061fdf, #002092);
   aspect-ratio: 1 / 1; /* Ensures a square shape */
-  border-radius: 50%;
+
   color: white;
   text-transform: uppercase;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
   transform: scale(0.8);
   transition: all 0.3s ease-in-out;
-  max-width: 14vw; /* Maximum width is 9% of the viewport width */
-  max-height: 14vh; /* Maximum height is 9% of the viewport height */
 }
 
 .custom-button:hover {
   background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  width: 110px; /* Set a fixed width */
+  height: 110px; /* Set the same height for a perfect circle */
 }
 
 .custom-button.group-hover {

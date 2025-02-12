@@ -5,13 +5,12 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <header class="sticky top-0 z-20 hidden lg:block">
-    <nav class="grid grid-cols-8 pl-5 pr-5 absolute top-0 w-full">
+  <header class="sticky top-0 z-20 hidden lg:block w-screen">
+    <nav class="flex justify-between pl-5 pr-5 absolute top-0 w-screen">
       <RouterLink class="custom-button" to="/">
         <img src="/media/A2.svg" alt="" />
       </RouterLink>
       <RouterLink class="custom-button" to="/about">About</RouterLink>
-      <RouterLink class="custom-button" to="/pSonja">Sonja</RouterLink>
     </nav>
   </header>
 
