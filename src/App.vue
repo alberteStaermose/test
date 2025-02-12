@@ -11,6 +11,7 @@ import HelloWorld from "./components/HelloWorld.vue";
         <img src="/media/A2.svg" alt="" />
       </RouterLink>
       <RouterLink class="custom-button" to="/about">About</RouterLink>
+      <RouterLink class="custom-button" to="/pSonja">Sonja</RouterLink>
     </nav>
   </header>
 
