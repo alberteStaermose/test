@@ -50,12 +50,19 @@ h3 {
   font-style: normal;
   font-size: 1.2rem;
 }
-p {
+h4 {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
   font-size: 1rem;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 0.8rem;
 }
 
 li {
