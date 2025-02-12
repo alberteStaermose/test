@@ -1,85 +1,43 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import { RouterLink, RouterView } from "vue-router";
+import HelloWorld from "./components/HelloWorld.vue";
+// import CircleButton from "./CircleButton.vue";
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
+  <header class="sticky top-0 z-20 hidden lg:block">
+    <nav class="grid grid-cols-8 pl-5 pr-5 absolute top-0 w-full">
+      <RouterLink class="custom-button" to="/"></RouterLink>
+      <RouterLink class="custom-button" to="/about">About</RouterLink>
+    </nav>
   </header>
 
   <RouterView />
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
+.custom-button {
+  display: grid;
   text-align: center;
-  margin-top: 2rem;
+  place-items: center;
+  background: linear-gradient(to bottom right, #1549ff, #061fdf, #002092);
+  aspect-ratio: 1 / 1; /* Ensures a square shape */
+  border-radius: 50%;
+  color: white;
+  text-transform: uppercase;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  transform: scale(0.8);
+  transition: all 0.3s ease-in-out;
+  max-width: 9vw; /* Maximum width is 9% of the viewport width */
+  max-height: 9vh; /* Maximum height is 9% of the viewport height */
 }
 
-nav a.router-link-exact-active {
-  color: var(--color-text);
+.custom-button:hover {
+  background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
+.custom-button.group-hover {
+  transform: scale(1);
 }
 </style>
