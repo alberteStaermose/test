@@ -2,8 +2,8 @@
 
 <template>
   <main>
-    <section class="h-screen bg-[#04151E] sticky top-0 -z-20 w-screen">
-      <img src="/media/sonjaIdentitet.webp" alt="" />
+    <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
+      <img class="w-screen" src="/media/sonjaIntro1.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
       <h1>Café Sonja</h1>
@@ -67,7 +67,14 @@
         <p>Brandinsight!! og hvad vi gjorde med den og hvorfor</p>
       </div>
     </section>
-    <section class="p-40 bg-white gap-20 grid">
+    <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
+      <article class="grid gap-20">
+        <img src="/media/sonjaLogo.webp" alt="" />
+        <img src="/media/sonjaGrafik.webp" alt="" />
+        <img src="/media/sonjaInsta.webp" alt="" />
+        <img src="/media/sonjaMenu.webp" alt="" />
+      </article>
+
       <article class="grid grid-cols-2 gap-40">
         <div>
           <h2>Tone of voice</h2>
@@ -142,6 +149,10 @@
             </p>
           </div>
         </div>
+      </article>
+      <article class="grid gap-20">
+        <img src="/media/sonjaInsta.webp" alt="" />
+        <img src="/media/sonjaIdentitet.webp" alt="" />
       </article>
     </section>
   </main>
