@@ -3,10 +3,10 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img class="w-screen" src="/media/sonjaIntro1.webp" alt="" />
+      <img class="w-screen" src="/media/politikenEks1.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
-      <h1>Café Sonja</h1>
+      <h1>Politiken Plus</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
@@ -30,7 +30,7 @@
       <div>
         <h2>Clientbrief</h2>
         <p>
-          Udfordringen for Poli%ken Plus er at gentænke og revitalisere et
+          Udfordringen for Politiken Plus er at gentænke og revitalisere et
           brand, der oprindeligt blev skabt i en anden tid og med et andet
           formål. Selvom Plus har haft stor succes i fortden og stadig tilbyder
           en bred vifte af fordele, er der flere centrale problemer, der skal
@@ -92,7 +92,7 @@
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
-        <img src="/media/sonjaLogo.webp" alt="" />
+        <img src="/media/politikenLogo.webp" alt="" />
         <img src="/media/sonjaLogo.webp" alt="" />
         <img src="/media/sonjaGrafik.webp" alt="" />
         <img src="/media/sonjaInsta.webp" alt="" />

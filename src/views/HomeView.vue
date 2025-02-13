@@ -14,8 +14,8 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pSonja">
           <div class="projectView"><p>Valør</p></div></RouterLink
         >
-        <RouterLink to="/pSonja"
-          ><div class="projectView"><p>Politiken Plus</p></div>
+        <RouterLink to="/pPolitiken"
+          ><div class="projectView"><p>Politiken Plus test</p></div>
         </RouterLink>
         <RouterLink to="/pSonja"
           ><div class="projectView"><p>While in battle</p></div></RouterLink
