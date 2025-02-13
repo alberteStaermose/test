@@ -67,5 +67,82 @@
         <p>Brandinsight!! og hvad vi gjorde med den og hvorfor</p>
       </div>
     </section>
+    <section class="p-40 bg-white gap-20 grid">
+      <article class="grid grid-cols-2 gap-40">
+        <div>
+          <h2>Tone of voice</h2>
+          <p>
+            Café Sonja’s Tone of Voice er varm, uformel og indbydende. Den taler
+            direkte til fællesskabet og understøtter følelsen af at være et
+            åbent og inkluderende sted, hvor alle er velkomne. Sproget er
+            jordnært og personligt, hvilket afspejler filosofien om, at det skal
+            være et sted for alle. Der bruges hverdagsudtryk og en tone, der
+            skaber en følelse af, at man taler med en god ven, fremfor et brand.
+            Det gør, at Sonjas føles nært og tilgængeligt, og det fremhæver
+            ønsket om at bygge bro mellem mennesker i lokalområdet.
+          </p>
+        </div>
+        <div>
+          <h2>Manifest</h2>
+          <p>
+            Sonja's har siden 1986 været et samlingspunkt, hvor fællesskab står
+            i hjertet af alt, vi gør. Vores døre er altid åbne - hos os er man
+            velkommen, som man er. Ansvaret for vores lokalsamfund og den verden
+            vi lever, kræver en fælles indsats, og vi skaber et rum hvor vi alle
+            har en lige værdi. Vi omfavner diversitet og ser den som en styrke,
+            der gør vores fællesskab rigere. Vi vil være mødestedet på
+            Vesterbro. Sammen bygger vi broer mellem mennesker og fremmer
+            relationer, der varer ved.
+          </p>
+        </div>
+      </article>
+      <article>
+        <h2>Startegi</h2>
+        <div class="grid grid-cols-3 gap-x-18 gap-y-5">
+          <div>
+            <h4>Hvad gør vi og hvordan gør vi det?</h4>
+            <p>
+              Vi skaber et varmt mødested for alle, der kan rumme både events og
+              alle salgs kaffetørstige individer. Vi mødes om en kop kaffe eller
+              en bid mad. Mad, der tager højde for alle slags diæter.
+            </p>
+          </div>
+          <div>
+            <h4>Hvad er vores vigtigste værdier?</h4>
+            <p>Fælleskab, ansvarlighed og inklusivitet.</p>
+          </div>
+          <div>
+            <h4>Hvem er vi her for?</h4>
+            <p>
+              Progressive Københavnere, der søger et meningsfuldt fælleskab.
+            </p>
+          </div>
+          <div>
+            <h4>Hvorfor er vi her?</h4>
+            <p>Fordi alle har behov for et fælles samlingspunkt</p>
+          </div>
+          <div>
+            <h4>Vores ambition</h4>
+            <p>
+              Vi har en ambition om at være mødestedet på Vesterbro, hvor man
+              kan komme og blive en del af os og vores fællesskab.
+            </p>
+          </div>
+          <div>
+            <h4>Hvad skiller os ud?</h4>
+            <p>
+              Fællesskabet, det sociale, at hjælpe udsatte og være mødestedet
+              for ensomme unge
+            </p>
+          </div>
+          <div>
+            <h4>Hvad er vores personlighed?</h4>
+            <p>
+              Vi er fællesskabsorienterede, chill, tidløse, urbane og lokale.
+            </p>
+          </div>
+        </div>
+      </article>
+    </section>
   </main>
 </template>
