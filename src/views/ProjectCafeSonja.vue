@@ -3,7 +3,6 @@
 <template>
   <main>
     <section class="h-screen bg-[#04151E] sticky top-0 -z-20 w-screen">
-      <h1>HERO</h1>
       <img src="/media/sonjaIdentitet.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
