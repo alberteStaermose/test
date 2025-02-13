@@ -64,7 +64,25 @@
       </div>
       <div>
         <h2>Insight og løsning</h2>
-        <p>Brandinsight!! og hvad vi gjorde med den og hvorfor</p>
+        <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
+        <ul class="gap-3 grid mb-3">
+          <li>
+            En cafe som alle andre, men som har mere fokus på caféen som third
+            place og fællesskabet end kvaliteten af kaffen - Mere folkehus end
+            kommerciel café.
+          </li>
+          <li>Fællesskabsorienterede københavnere.</li>
+          <li>Mere fokus på kommunikation af fællesskabet.</li>
+          <li>
+            Mange lider af ensomhed som Café Sonja vil skabe et rum for, hvor
+            man kan mødes og skabe nye relationer.
+          </li>
+        </ul>
+        <p>
+          Disse insights har vi brugt til at udvikle en ny brandstrategi, en
+          tone of voice og et manifest, og ud fra det udviklet en ny visuel
+          identitet.
+        </p>
       </div>
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
@@ -151,7 +169,6 @@
         </div>
       </article>
       <article class="grid gap-20">
-        <img src="/media/sonjaInsta.webp" alt="" />
         <img src="/media/sonjaIdentitet.webp" alt="" />
       </article>
     </section>

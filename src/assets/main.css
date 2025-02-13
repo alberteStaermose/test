@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 video {
   object-fit: cover;
@@ -70,8 +70,9 @@ li {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-size: 1.5rem;
-  text-transform: uppercase;
+  font-size: 0.8rem;
+  list-style-type: circle;
+  /* text-transform: uppercase; */
 }
 
 .custom-button {
