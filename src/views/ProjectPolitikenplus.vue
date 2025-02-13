@@ -18,11 +18,11 @@
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Politiken</h4>
+          <h4>Café Sonja</h4>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Strateg og Grafiker</h4>
+          <h4>Strateg og grafiker</h4>
         </div>
       </div>
     </section>
@@ -30,22 +30,20 @@
       <div>
         <h2>Clientbrief</h2>
         <p>
-          Vi ønsker at opfriske Café Sonja brandet. Café Sonja har eksisteret i
-          over 30 år og har været mange forskellige ting igennem tiderne. Nu har
-          vi fundet et cafékoncept, som er populært og nu skal vi fortælle endnu
-          mere om det og styrke vores brand. Café Sonja har sit navn efter
-          Tv-serien Sonja i Saxogade og det fylder nogle gange lidt for meget,
-          så derfor vil vi gerne frigøre os fra den historie uden at glemme det
-          helt – så vi ønsker ikke at skifte navn, men få sat nogle flere
-          historie på hvad Café Sonja er.
+          Udfordringen for Poli%ken Plus er at gentænke og revitalisere et
+          brand, der oprindeligt blev skabt i en anden tid og med et andet
+          formål. Selvom Plus har haft stor succes i fortden og stadig tilbyder
+          en bred vifte af fordele, er der flere centrale problemer, der skal
+          adresseres. Målet er at fastlægge en klar, værdibaseret retning, der
+          ikke blot fastholder eksisterende abonnenter, men også tiltrækker nye
+          segmenter, især målgruppen i alderen 30-45 år, der viser interesse for
+          Politiken som medie.
           <br />
-          Café Sonja skal være i top 3, når man tænker på klassiske cafeer i
-          København. Vi er en af de første cafeer i KBH, så vi skal være mere
-          kendte. Vi ønsker, at vi med et styrket brand, kan vise alt det Sonja
-          er og tiltrække flere gæster og turister. Sonja er en del af det store
-          sociale arbejde der bliver lavet i Saxogade og det må meget gerne
-          skinne igennem i brandet, samtidigt med at vi stadig skal fremstå som
-          en up-to-date café i kbh.
+          Drømmen er at gøre Plus til en central del af abonnenternes liv, hvor
+          de ikke bare modtager fordele, men også føler sig som en del af et
+          meningsfuldt fællesskab. Politiken Plus skal være det sted, hvor
+          kultur, kvalitet og fællesskab mødes, og hvor abonnenterne kan udleve
+          deres drømme og interesser i både fysiske og digitale verdener.
         </p>
       </div>
       <div>
@@ -56,10 +54,10 @@
           Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
           data-indsamling i form af deskresearch, interviews, spørgeskemaer og
           observationer. <br />
-          Ud fra vores research lavede vi en ny brandstrategi til Café Sonja,
-          som ligger til grund for den nye verbale og visuelle identitet vi har
-          udviklet til Café Sonja. Udover dette valgte vi at ændre navnet fra
-          "Café Sonja" til "Sonja's", for at udfordre client briefen.
+          Ud fra vores research lavede vi en ny brandstrategi til Politiken, som
+          ligger til grund for den nye verbale og visuelle identitet vi har
+          udviklet til Politiken Plus. Udover dette valgte vi at ændre navnet
+          fra Politiken "Plus" til Politiken "Puls".
         </p>
       </div>
       <div>
@@ -67,28 +65,35 @@
         <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
         <ul class="gap-3 grid mb-3">
           <li>
-            En cafe som alle andre, men som har mere fokus på caféen som third
-            place og fællesskabet end kvaliteten af kaffen - Mere folkehus end
-            kommerciel café.
+            Der er en hul i markedet for at være en inspirerende univers, hvor
+            fordelene er særlig kurateret.
           </li>
-          <li>Fællesskabsorienterede københavnere.</li>
-          <li>Mere fokus på kommunikation af fællesskabet.</li>
           <li>
-            Mange lider af ensomhed som Café Sonja vil skabe et rum for, hvor
-            man kan mødes og skabe nye relationer.
+            Målgruppen er travle og udbrændte, og søger aktiviteter, som beriger
+            og opfylder et selvreliserenede behov i en ensartet og praktisk
+            hverdag.
+          </li>
+          <li>
+            Der er en stigende tendens til at tage stilling til sig selv i en
+            kompleks og poleret verden , men det er dyrt.
+          </li>
+          <li>
+            På trods af en klar rød tråd mellem Politiken.dk og
+            PolitikenPlus.dk, så er det svært at finde information om, og
+            generelt finde et link til PolitikenPlus på Politiken.dk.
           </li>
         </ul>
         <p>
           Disse insights har vi brugt til at udvikle en ny brandstrategi, en
-          tone of voice og et manifest, og ud fra det udviklet en ny visuel
-          identitet.
+          tone of voice og en tagline, og ud fra det udviklet en ny visuel
+          identitet og en prototype til et nyt site.
         </p>
       </div>
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
         <img src="/media/sonjaLogo.webp" alt="" />
-        <img src="/media/sonjaTagline.webp" alt="" />
+        <img src="/media/sonjaLogo.webp" alt="" />
         <img src="/media/sonjaGrafik.webp" alt="" />
         <img src="/media/sonjaInsta.webp" alt="" />
         <img src="/media/sonjaMenu.webp" alt="" />
