@@ -93,38 +93,27 @@
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
         <img src="/media/politikenLogo.webp" alt="" />
-        <img src="/media/sonjaLogo.webp" alt="" />
-        <img src="/media/sonjaGrafik.webp" alt="" />
-        <img src="/media/sonjaInsta.webp" alt="" />
-        <img src="/media/sonjaMenu.webp" alt="" />
+        <img src="/media/politikenGrafik.webp" alt="" />
+        <img src="/media/politikenBilledstil.webp" alt="" />
+        <img src="/media/politikenEks1.webp" alt="" />
+        <img src="/media/politikenEks2.webp" alt="" />
       </article>
+      <iframe
+        class="w-full"
+        style="border: 1px solid rgba(0, 0, 0, 0.1)"
+        height="450"
+        src="https://embed.figma.com/proto/lAaXarackx2uzXIWjo5JDI/Portfolio?page-id=0%3A1&node-id=1-17311&p=f&viewport=280%2C148%2C0.02&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A17378&embed-host=share"
+        allowfullscreen
+      ></iframe>
 
       <article class="grid grid-cols-2 gap-40">
         <div>
-          <h2>Tone of voice</h2>
-          <p>
-            Café Sonja’s Tone of Voice er varm, uformel og indbydende. Den taler
-            direkte til fællesskabet og understøtter følelsen af at være et
-            åbent og inkluderende sted, hvor alle er velkomne. Sproget er
-            jordnært og personligt, hvilket afspejler filosofien om, at det skal
-            være et sted for alle. Der bruges hverdagsudtryk og en tone, der
-            skaber en følelse af, at man taler med en god ven, fremfor et brand.
-            Det gør, at Sonjas føles nært og tilgængeligt, og det fremhæver
-            ønsket om at bygge bro mellem mennesker i lokalområdet.
-          </p>
+          <h2>Tagline</h2>
+          <img src="/media/politikenTagline.webp" alt="" />
         </div>
         <div>
-          <h2>Manifest</h2>
-          <p>
-            Sonja's har siden 1986 været et samlingspunkt, hvor fællesskab står
-            i hjertet af alt, vi gør. Vores døre er altid åbne - hos os er man
-            velkommen, som man er. Ansvaret for vores lokalsamfund og den verden
-            vi lever, kræver en fælles indsats, og vi skaber et rum hvor vi alle
-            har en lige værdi. Vi omfavner diversitet og ser den som en styrke,
-            der gør vores fællesskab rigere. Vi vil være mødestedet på
-            Vesterbro. Sammen bygger vi broer mellem mennesker og fremmer
-            relationer, der varer ved.
-          </p>
+          <h2>Brandvoice</h2>
+          <img src="/media/politikenVoice.webp" alt="" />
         </div>
       </article>
       <article>
@@ -133,49 +122,49 @@
           <div>
             <h4>Hvad gør vi og hvordan gør vi det?</h4>
             <p>
-              Vi skaber et varmt mødested for alle, der kan rumme både events og
-              alle salgs kaffetørstige individer. Vi mødes om en kop kaffe eller
-              en bid mad. Mad, der tager højde for alle slags diæter.
+              Tilbyde et overskueligt, tilgængeligt og attraktivt fordelsunivers
+              til politiken.
             </p>
           </div>
           <div>
             <h4>Hvad er vores vigtigste værdier?</h4>
-            <p>Fælleskab, ansvarlighed og inklusivitet.</p>
+            <p>
+              Humor, relaterbare med et glimt i øjet <br />
+              Orienteret, opdateret og nysgerrige<br />
+              Tilgængelighed, overskueligt og intuitiv
+            </p>
           </div>
           <div>
             <h4>Hvem er vi her for?</h4>
             <p>
-              Progressive Københavnere, der søger et meningsfuldt fælleskab.
+              De reflekterede og selvbevidste individer, som er nysgerrige, men
+              øver sig i at prioritere sig selv og finde alternative pusterum i
+              en triviel hverdag.
             </p>
           </div>
           <div>
             <h4>Hvorfor er vi her?</h4>
-            <p>Fordi alle har behov for et fælles samlingspunkt</p>
+            <p>Følg din puls</p>
           </div>
           <div>
             <h4>Vores ambition</h4>
-            <p>
-              Vi har en ambition om at være mødestedet på Vesterbro, hvor man
-              kan komme og blive en del af os og vores fællesskab.
-            </p>
+            <p>Gøre kultur mere tilgængelig uden at gå på kompromis.</p>
           </div>
           <div>
             <h4>Hvad skiller os ud?</h4>
             <p>
-              Fællesskabet, det sociale, at hjælpe udsatte og være mødestedet
-              for ensomme unge
+              Kommunikation med en humoristisk tilgang i et visuelt inspirerende
+              fordelsunivers med relevans.
             </p>
           </div>
           <div>
             <h4>Hvad er vores personlighed?</h4>
-            <p>
-              Vi er fællesskabsorienterede, chill, tidløse, urbane og lokale.
-            </p>
+            <img src="/media/politikenPersonlighed.webp" alt="" />
           </div>
         </div>
       </article>
       <article class="grid gap-20">
-        <img src="/media/sonjaIdentitet.webp" alt="" />
+        <img src="/media/politikenIdentitet.webp" alt="" />
       </article>
     </section>
   </main>
