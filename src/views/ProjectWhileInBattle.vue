@@ -93,12 +93,6 @@
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
-        <img
-          class="w-1/3 place-self-center"
-          src="/media/whilePlakat.webp"
-          alt=""
-        />
-
         <div style="padding: 54.48% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/1056938054?h=361df1aec9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -114,7 +108,45 @@
             title="whileKampagnesite"
           ></iframe>
         </div>
-
+        <div class="flex">
+          <div class="w-4/5">
+            <h2>Kodet prototype på kampgnesite</h2>
+            <p>
+              Sitet er sat op med togglebutton, der får sitet til at skifte
+              mellem kontrasten, light- og darkmode, og muligheden for at gå
+              tilbage til default som er der hvor kontrasterne mødes og skal
+              symbolisere forestillingen hvor kontrasterne mødes. Da det er en
+              prototype er der kun én version i light og én version, men tanken
+              var at der skulle være et array med flere versioner af light- og
+              darkmode.
+            </p>
+          </div>
+          <div class="">
+            <a
+              class="custom-button"
+              href="https://master--alberteogjosefine.netlify.app/"
+              >Site</a
+            >
+          </div>
+        </div>
+        <div class="grid grid-cols-4">
+          <img src="/media/whileLightBlue.webp" alt="" />
+          <img src="/media/whileLightRed.webp" alt="" />
+          <img src="/media/whileLightGreen.webp" alt="" />
+        </div>
+        <img
+          class="w-1/3 place-self-center"
+          src="/media/whilePlakat.webp"
+          alt=""
+        />
+        <div class="grid grid-cols-4">
+          <img src="/media/whileLightBlue.webp" alt="" />
+          <img src="/media/whileLightRed.webp" alt="" />
+          <img src="/media/whileLightGreen.webp" alt="" />
+          <img src="/media/whileLightOrange.webp" alt="" />
+        </div>
+      </article>
+      <article class="grid">
         <div style="padding: 56.25% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/1056939586?h=be80d53412&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -130,29 +162,12 @@
             title="FysiskInstallationVideoJosefineAlberte"
           ></iframe>
         </div>
+        <img
+          class="place-self-center"
+          src="/media/whileFysiskInstallation.webp"
+          alt=""
+        />
         <!-- <script src="https://player.vimeo.com/api/player.js"></script> -->
-
-        <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
-        <img class="w-full" src="/media/valorComputer.webp" alt="" />
-        <img class="w-full" src="/media/valorSite.webp" alt="" />
-      </article>
-      <article class="grid grid-cols-2 gap-20">
-        <img class="w-full" src="/media/valorBoxes.webp" alt="" />
-        <img src="/media/valorAsset1.webp" alt="" />
-        <img src="/media/valorT-Shirt.webp" alt="" />
-        <img src="/media/valorT-shirt2.webp" alt="" />
-        <img src="/media/valorTpe.webp" alt="" />
-        <img src="/media/valorPoster-4.webp" alt="" />
-      </article>
-      <article class="grid grid-cols-3 gap-20">
-        <img class="w-full" src="/media/valorOutdoor2.webp" alt="" />
-        <img class="w-full" src="/media/valorOutdoor.webp" alt="" />
-        <img class="w-full" src="/media/valorOutdoor3.webp" alt="" />
-      </article>
-      <article>
-        <img class="w-full" src="/media/valorAssetgenerator.webp" alt="" />
-        <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
-        <img class="w-full" src="/media/valorGenereret2.webp" alt="" />
       </article>
     </section>
   </main>
