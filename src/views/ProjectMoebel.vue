@@ -73,6 +73,11 @@
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
+        <video controls>
+          <source src="/valorVideo.mp4" type="video/mp4" />
+
+          Your browser does not support the video tag.
+        </video>
         <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
         <img class="w-full" src="/media/valorComputer.webp" alt="" />
         <img class="w-full" src="/media/valorSite.webp" alt="" />
