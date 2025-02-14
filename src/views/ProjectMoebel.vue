@@ -81,14 +81,14 @@
           <img class="w-full" src="/media/valorBilleder2.webp" alt="" />
         </div>
       </article> -->
-      <!-- <article class="grid grid-cols-2 gap-20">
+      <article class="grid grid-cols-2 gap-20">
         <img class="w-full" src="/media/valorBoxes.webp" alt="" />
         <img src="/media/valorAsset1.webp" alt="" />
-        <img src="/media/valorT-shirt.webp" alt="" />
-        <img src="/media/valorT-shirt2.webp" alt="" />
+        <img src="/media/valorT-Shirt.webp" alt="" />
+        <!-- <img src="/media/valorT-shirt2.webp" alt="" />
         <img src="/media/valorTape.webp" alt="" />
-        <img src="/media/valorAsset1.webp" alt="" />
-      </article> -->
+        <img src="/media/valorAsset1.webp" alt="" /> -->
+      </article>
       <article class="grid grid-cols-3 gap-20">
         <img class="w-full" src="/media/valorOutdoor2.webp" alt="" />
         <img class="w-full" src="/media/valorOutdoor.webp" alt="" />
