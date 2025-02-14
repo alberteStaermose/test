@@ -96,8 +96,8 @@
       </article> -->
       <article>
         <img class="w-full" src="/media/valorAssetgenerator.webp" alt="" />
-        <!-- <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
-        <img class="w-full" src="/media/valorGenereret2.webp" alt="" /> -->
+        <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
+        <img class="w-full" src="/media/valorGenereret2.webp" alt="" />
       </article>
     </section>
   </main>
