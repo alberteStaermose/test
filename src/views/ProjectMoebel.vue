@@ -85,9 +85,9 @@
         <img class="w-full" src="/media/valorBoxes.webp" alt="" />
         <img src="/media/valorAsset1.webp" alt="" />
         <img src="/media/valorT-Shirt.webp" alt="" />
-        <!-- <img src="/media/valorT-shirt2.webp" alt="" />
-        <img src="/media/valorTape.webp" alt="" />
-        <img src="/media/valorAsset1.webp" alt="" /> -->
+        <img src="/media/valorT-shirt2.webp" alt="" />
+        <img src="/media/valorTpe.webp" alt="" />
+        <img src="/media/valorPoster-4.webp" alt="" />
       </article>
       <article class="grid grid-cols-3 gap-20">
         <img class="w-full" src="/media/valorOutdoor2.webp" alt="" />
