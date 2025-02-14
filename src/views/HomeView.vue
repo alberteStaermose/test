@@ -14,14 +14,15 @@ import HeroSection from "../components/HeroSection.vue";
             <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
           </div>
         </RouterLink>
-        <RouterLink to="/pMoebel">
+        <RouterLink to="/pValor">
           <div class="projectView">
             <p class="hidden">Valør</p>
-            <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
+            <img class="projectView" src="/media/valorLogoPosNeg.webp" alt="" />
           </div>
         </RouterLink>
-        <RouterLink to="/pPolitiken"
-          ><div class="projectView">
+        <RouterLink to="/pPolitiken">
+          <div class="projectView">
+            <p class="hidden">Politiken Plus</p>
             <img src="/media/politikenLogo.webp" alt="" />
           </div>
         </RouterLink>
@@ -53,7 +54,7 @@ import HeroSection from "../components/HeroSection.vue";
 
 <style scoped>
 .projectView {
-  height: 250px;
+  height: 300px;
   background-color: rgb(178, 178, 226);
 }
 .projectView img {
@@ -67,7 +68,7 @@ import HeroSection from "../components/HeroSection.vue";
   display: block;
 }
 .projectView:hover {
-  height: 250px;
+  height: 300px;
   /* display: none; */
   background-color: blue;
 }
