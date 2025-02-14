@@ -14,7 +14,7 @@ import HeroSection from "../components/HeroSection.vue";
             <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
           </div>
         </RouterLink>
-        <RouterLink to="/pValor">
+        <RouterLink to="/pMoebel">
           <div class="projectView">
             <p class="hidden">Valør</p>
             <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
