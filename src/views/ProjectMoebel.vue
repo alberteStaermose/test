@@ -26,7 +26,7 @@
         </div>
       </div>
     </section>
-    <!-- <section class="grid grid-cols-3 p-20 gap-10 bg-white">
+    <section class="grid grid-cols-3 p-20 gap-10 bg-white">
       <div>
         <h2>Clientbrief</h2>
         <p>
@@ -71,7 +71,7 @@
         </p>
       </div>
     </section>
-    <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
+    <!-- <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
         <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
         <img class="w-full" src="/media/valorComputer.webp" alt="" />
