@@ -26,9 +26,11 @@ import HeroSection from "../components/HeroSection.vue";
             <img src="/media/politikenLogo.webp" alt="" />
           </div>
         </RouterLink>
-        <RouterLink to="/pSonja"
-          ><div class="projectView"><p>While in battle</p></div></RouterLink
-        >
+        <RouterLink to="/pWhileInBattle"
+          ><div class="projectView">
+            <p class="hidden">While In Battle</p>
+            <img src="/media/politikenLogo.webp" alt="" /></div
+        ></RouterLink>
         <RouterLink to="/pSonja">
           <div class="projectView"><p>Samyang</p></div>
         </RouterLink>
