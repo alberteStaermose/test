@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <main>
+  <!-- <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/valorPoster.webp" alt="" />
     </section>
@@ -100,5 +100,5 @@
         <img class="w-full" src="/media/valorGenereret2.webp" alt="" />
       </article>
     </section>
-  </main>
+  </main> -->
 </template>
