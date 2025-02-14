@@ -107,10 +107,6 @@
         <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
         <img class="w-full" src="/media/valorComputer.webp" alt="" />
         <img class="w-full" src="/media/valorSite.webp" alt="" />
-        <div class="grid gap-2">
-          <img class="w-full" src="/media/valorBilleder1.webp" alt="" />
-          <img class="w-full" src="/media/valorBilleder2.webp" alt="" />
-        </div>
       </article>
       <article class="grid grid-cols-2 gap-20">
         <img class="w-full" src="/media/valorBoxes.webp" alt="" />
