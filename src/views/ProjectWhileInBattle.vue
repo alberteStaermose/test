@@ -3,7 +3,7 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img class="w-screen" src="/media/valorPoster-4.webp" alt="" />
+      <img class="w-screen" src="/media/whileSite.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
       <h1>Valør</h1>
