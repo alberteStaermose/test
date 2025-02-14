@@ -71,8 +71,8 @@
         </p>
       </div>
     </section>
-    <!-- <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
-      <article class="grid gap-20">
+    <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
+      <!-- <article class="grid gap-20">
         <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
         <img class="w-full" src="/media/valorComputer.webp" alt="" />
         <img class="w-full" src="/media/valorSite.webp" alt="" />
@@ -80,25 +80,25 @@
           <img class="w-full" src="/media/valorBilleder1.webp" alt="" />
           <img class="w-full" src="/media/valorBilleder2.webp" alt="" />
         </div>
-      </article>
-      <article class="grid grid-cols-2 gap-20">
+      </article> -->
+      <!-- <article class="grid grid-cols-2 gap-20">
         <img class="w-full" src="/media/valorBoxes.webp" alt="" />
         <img src="/media/valorAsset1.webp" alt="" />
         <img src="/media/valorT-shirt.webp" alt="" />
         <img src="/media/valorT-shirt2.webp" alt="" />
         <img src="/media/valorTape.webp" alt="" />
         <img src="/media/valorAsset1.webp" alt="" />
-      </article>
-      <article class="grid grid-cols-3 gap-20">
+      </article> -->
+      <!-- <article class="grid grid-cols-3 gap-20">
         <img class="w-full" src="/media/valorOutdoor2.webp" alt="" />
         <img class="w-full" src="/media/valorOutdoor.webp" alt="" />
         <img class="w-full" src="/media/valorOutdoor3.webp" alt="" />
-      </article>
+      </article> -->
       <article>
         <img class="w-full" src="/media/valorAssetgenerator.webp" alt="" />
-        <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
-        <img class="w-full" src="/media/valorGenereret2.webp" alt="" />
+        <!-- <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
+        <img class="w-full" src="/media/valorGenereret2.webp" alt="" /> -->
       </article>
-    </section> -->
+    </section>
   </main>
 </template>
