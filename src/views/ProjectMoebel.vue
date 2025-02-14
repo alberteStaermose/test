@@ -1,9 +1,9 @@
 <script setup></script>
 
 <template>
-  <!-- <main>
+  <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img class="w-screen" src="/media/valorPoster.webp" alt="" />
+      <img class="w-screen" src="/media/valorPoster-4.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
       <h1>Valør</h1>
@@ -26,7 +26,7 @@
         </div>
       </div>
     </section>
-    <section class="grid grid-cols-3 p-20 gap-10 bg-white">
+    <!-- <section class="grid grid-cols-3 p-20 gap-10 bg-white">
       <div>
         <h2>Clientbrief</h2>
         <p>
@@ -99,6 +99,6 @@
         <img class="w-full" src="/media/valorGenereret1.webp" alt="" />
         <img class="w-full" src="/media/valorGenereret2.webp" alt="" />
       </article>
-    </section>
-  </main> -->
+    </section> -->
+  </main>
 </template>
