@@ -99,11 +99,14 @@
           alt=""
         />
 
-        <video controls>
-          <source src="/valorVideo.mp4" type="video/mp4" />
+        <iframe
+          width="560"
+          height="315"
+          src="https://youtu.be/rFYOyQN88nE/embed/{{ video_id }}"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
 
-          Your browser does not support the video tag.
-        </video>
         <img class="w-full" src="/media/valorLogoPosNeg.webp" alt="" />
         <img class="w-full" src="/media/valorComputer.webp" alt="" />
         <img class="w-full" src="/media/valorSite.webp" alt="" />
