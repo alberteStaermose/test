@@ -130,7 +130,7 @@
             >
           </div>
         </div>
-        <!-- <div class="grid grid-cols-3 gap-3">
+        <div class="grid grid-cols-3 gap-3">
           <img src="/media/whileLightMode.webp" alt="" />
           <img src="/media/whileDefaultMode.webp" alt="" />
           <img src="/media/whileDarkMode.webp" alt="" />
@@ -145,7 +145,7 @@
           <img src="/media/whileLightRed.webp" alt="" />
           <img src="/media/whileLightGreen.webp" alt="" />
           <img src="/media/whileLightOrange.webp" alt="" />
-        </div> -->
+        </div>
       </article>
       <article class="grid">
         <div style="padding: 56.25% 0 0 0; position: relative">
