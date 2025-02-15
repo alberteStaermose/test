@@ -29,7 +29,7 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pWhileInBattle"
           ><div class="projectView">
             <p class="hidden">While In Battle</p>
-            <img src="/media/whileSite.webp" alt="" /></div
+            <img src="/media/whileIntro.webp" alt="" /></div
         ></RouterLink>
         <RouterLink to="/pSonja">
           <div class="projectView"><p>Samyang</p></div>
