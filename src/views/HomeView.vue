@@ -17,7 +17,7 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pValor">
           <div class="projectView">
             <p class="hidden">Valør</p>
-            <img class="projectView" src="/media/valorLogoPosNeg.webp" alt="" />
+            <img class="projectView" src="/media/valorOutdoor2.webp" alt="" />
           </div>
         </RouterLink>
         <RouterLink to="/pPolitiken">
@@ -29,7 +29,7 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pWhileInBattle"
           ><div class="projectView">
             <p class="hidden">While In Battle</p>
-            <img src="/media/whileIntro.webp" alt="" /></div
+            <img src="/media/whileIntro3.webp" alt="" /></div
         ></RouterLink>
         <RouterLink to="/pSonja">
           <div class="projectView"><p>Samyang</p></div>

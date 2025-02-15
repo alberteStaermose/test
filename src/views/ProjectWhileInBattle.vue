@@ -3,7 +3,7 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img src="/media/whileIntro.webp" alt="" />
+      <img src="/media/whileIntro3.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
       <h1>While In Battle</h1>
