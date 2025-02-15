@@ -134,8 +134,8 @@
           <img src="/media/whileLightMode.webp" alt="" />
           <img src="/media/whileDefaultMode.webp" alt="" />
           <img src="/media/whileDarkMode.webp" alt="" />
-        </div> -->
-        <!-- <img
+        </div>
+        <img
           class="w-1/3 place-self-center"
           src="/media/whilePlakat.webp"
           alt=""
