@@ -3,7 +3,7 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img src="/media/whileIntro3.webp" alt="" />
+      <img src="/media/whilePlakatSort.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
       <h1>While In Battle</h1>
@@ -137,7 +137,12 @@
         </div>
         <img
           class="w-1/3 place-self-center"
-          src="/media/whilePlakat.webp"
+          src="/media/whileInBatllePlakat.webp"
+          alt=""
+        />
+        <img
+          class="place-self-center"
+          src="/media/whilePlakatSort.webp"
           alt=""
         />
         <div class="grid grid-cols-4">
