@@ -130,10 +130,17 @@
             >
           </div>
         </div>
+<<<<<<< HEAD
         <div class="grid grid-cols-3 gap-3">
           <img src="/media/whileLightMode.webp" alt="" />
           <img src="/media/whileDefaultMode.webp" alt="" />
           <img src="/media/whileDarkMode.webp" alt="" />
+=======
+        <div class="grid grid-cols-4">
+          <img src="/media/whileLightBlue.webp" alt="" />
+          <img src="/media/whileLightRed.webp" alt="" />
+          <img src="/media/whileLightGreen.webp" alt="" />
+>>>>>>> bc842bce9c5c4b0843886a7c19ea8c9e3d8f0e06
         </div>
         <img
           class="w-1/3 place-self-center"
@@ -164,11 +171,16 @@
           ></iframe>
         </div>
         <img
+<<<<<<< HEAD
           class="place-self-center w-2/3"
+=======
+          class="place-self-center"
+>>>>>>> bc842bce9c5c4b0843886a7c19ea8c9e3d8f0e06
           src="/media/whileFysiskInstallation.webp"
           alt=""
         />
         <!-- <script src="https://player.vimeo.com/api/player.js"></script> -->
+<<<<<<< HEAD
       </article>
       <article class="grid gap-10">
         <img src="/media/whileBilledstil.webp" alt="" />
@@ -177,6 +189,8 @@
           <img src="/media/whileDancer2.webp" alt="" />
         </div>
         <img src="/media/whileStyletyle.webp" alt="" />
+=======
+>>>>>>> bc842bce9c5c4b0843886a7c19ea8c9e3d8f0e06
       </article>
     </section>
   </main>
