@@ -65,7 +65,7 @@
         <div>
           <h2>Insight og løsning</h2>
           <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
-          <ul class="gap-3 grid mb-3">
+          <ul class="gap-3 grid mb-3 list-inside">
             <li>
               Der er en hul i markedet for at være en inspirerende univers, hvor
               fordelene er særlig kurateret.

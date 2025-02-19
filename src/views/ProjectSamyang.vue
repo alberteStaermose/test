@@ -61,7 +61,7 @@
         <div>
           <h2>Insight og løsning</h2>
           <p class="mb-3">Ud fra min research kom jeg frem til 4 insights:</p>
-          <ul class="gap-3 grid mb-3">
+          <ul class="gap-3 grid mb-3 list-inside">
             <li>
               Samyang nudler skiller sig ikke ud fra konkurrenterne visuelt og
               verbalt, på trods af at de har en fin fortælling om kvalitet

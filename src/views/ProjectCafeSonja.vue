@@ -66,7 +66,7 @@
         <div>
           <h2>Insight og løsning</h2>
           <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
-          <ul class="gap-3 grid mb-3">
+          <ul class="gap-3 grid mb-3 list-inside">
             <li>
               En cafe som alle andre, men som har mere fokus på caféen som third
               place og fællesskabet end kvaliteten af kaffen - Mere folkehus end

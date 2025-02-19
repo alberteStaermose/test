@@ -26,14 +26,17 @@
           alt udvikles og baseres på dybdegående research.
         </p>
       </div>
+      <img src="/media/alberte.webp" alt="" />
 
       <div class="grid">
-        <h3 class="grid text-center content-center">Mine kompetencer</h3>
-        <ul class="list-disc list-inside grid text-left justify-center pl-3">
-          <li>Adobe</li>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JavaScript</li>
+        <h2 class="">Mine kompetencer</h2>
+        <ul class="list-disc list-inside">
+          <li>Branding</li>
+          <li>strategi</li>
+          <li>Projektledelse</li>
+          <li>Adobepakken</li>
+          <li>Officepakken</li>
+          <li>HTML, CSS og JavaScript</li>
           <li>Processing</li>
           <li>Tailwind</li>
           <li>Figma</li>

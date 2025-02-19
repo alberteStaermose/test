@@ -19,7 +19,7 @@ import HeroSection from "../components/HeroSection.vue";
 
         <RouterLink to="/pMoebel">
           <div class="projectView">
-            <p class="hidden">Valør</p>
+            <p class="hidden">Møbelbutikken Valør</p>
             <img class="projectView" src="/media/valorOutdoor2.webp" alt="" />
           </div>
         </RouterLink>
@@ -28,21 +28,21 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pPolitiken">
           <div class="projectView">
             <p class="hidden">Politiken Plus</p>
-            <img src="/media/politikenLogo.webp" alt="" />
+            <img src="/media/politikenEks1.webp" alt="" />
           </div>
         </RouterLink>
         <!--  -->
         <!--  -->
         <RouterLink to="/pWhileInBattle"
           ><div class="projectView">
-            <p class="hidden">While In Battle</p>
+            <p class="hidden">Danseforestillingen: While In Battle</p>
             <img src="/media/whilePlakatSort.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
         <!--  -->
         <RouterLink to="/pSamyang"
           ><div class="projectView">
-            <p class="hidden">Samyang</p>
+            <p class="hidden">Samyang Foods</p>
             <img src="/media/samyangT-shirts.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
@@ -73,6 +73,7 @@ import HeroSection from "../components/HeroSection.vue";
   background-color: rgb(178, 178, 226);
   display: grid;
   justify-content: center;
+  align-items: end;
 }
 /* .projectView img {
   width: 100%;
@@ -83,11 +84,12 @@ import HeroSection from "../components/HeroSection.vue";
 .projectView:hover p {
   /* display: none; */
   display: block;
+  padding-bottom: 10px;
 }
 .projectView:hover {
   /* height: 300px; */
   /* display: none; */
-  background-color: blue;
+  background-color: white;
 }
 .projectView:hover img {
   display: none;
