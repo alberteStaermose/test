@@ -1,11 +1,12 @@
 <script setup>
-import TheWelcome from "../components/TheWelcome.vue";
-import HeroSection from "../components/HeroSection.vue";
+// import HeroSection from "../components/HeroSection.vue";
+import CircleSection from "../components/CircleSection.vue";
 </script>
 
 <template>
   <main>
-    <HeroSection />
+    <CircleSection />
+
     <section>
       <article class="grid grid-cols-3">
         <RouterLink to="/pSonja">
