@@ -29,7 +29,16 @@
     <section class="grid grid-cols-3 p-20 gap-10 bg-white">
       <div>
         <h2>Clientbrief</h2>
-        <p>....</p>
+        <p>
+          Opgaven gik ud på at jeg skulle udvikle en brand strategi og brand
+          identitet for en kunde. Det var op til os selv hvilken kunde vi ville
+          arbejde med. Opgaven var dog låst på den måde at der skulle være tale
+          om et eksisterende brand, der havde en tydelig udfordring/
+          problemstilling –som vi skulle løse via repositionering/ rebranding /
+          redesign. Jeg valgte Samyang Foods og problemstillingen: Det er svært
+          at skelne de forskellige nuddelbrands på markedet visuelt fra
+          hinanden.
+        </p>
       </div>
       <div>
         <h2>Proces</h2>
@@ -151,6 +160,8 @@
         </div>
       </article>
       <article class="grid gap-20">
+        <img src="/media/samyangFørEfter.webp" alt="" />
+
         <img src="/media/samyangVisuelidentitet.webp" alt="" />
       </article>
     </section>
