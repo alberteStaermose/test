@@ -23,12 +23,20 @@ import { RouterLink, RouterView } from "vue-router";
   <RouterView />
 
   <footer>
-    <section class="flex justify-center py-20 gap-28 bg-white">
+    <section class="flex justify-center pt-10 pb-30 gap-28 bg-white">
       <div class="buttonContainer">
-        <a href="" class="custom-button w-48 h-48">Linked-IN</a>
+        <a
+          href="www.linkedin.com/in/alberte-stærmose-b182b2232"
+          class="custom-button w-48 h-48"
+          >Linked-IN</a
+        >
       </div>
       <div class="buttonContainer">
-        <a href="" class="custom-button w-48 h-48">Instagram</a>
+        <a
+          href="https://www.instagram.com/alberte_staermose?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+          class="custom-button w-48 h-48"
+          >Instagram</a
+        >
       </div>
     </section>
   </footer>

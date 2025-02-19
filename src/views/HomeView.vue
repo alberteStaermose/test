@@ -50,7 +50,7 @@ import CircleSection from "../components/CircleSection.vue";
         <!--  -->
         <RouterLink to="/pRF"
           ><div class="projectView">
-            <p class="hidden">RF retursystem</p>
+            <p class="hidden">Roskilde Festivals pantsystem</p>
             <img src="/media/rfPlads.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
@@ -99,7 +99,7 @@ import CircleSection from "../components/CircleSection.vue";
 .projectView:hover {
   /* height: 300px; */
   /* display: none; */
-  background-color: oklch(0.977 0.013 236.62);
+  background-color: oklch(0.707 0.165 254.624);
 }
 .projectView:hover img {
   display: none;
