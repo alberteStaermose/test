@@ -17,7 +17,7 @@ import HeroSection from "../components/HeroSection.vue";
         <!--  -->
         <!--  -->
 
-        <RouterLink to="/pValor">
+        <RouterLink to="/pMoebel">
           <div class="projectView">
             <p class="hidden">Valør</p>
             <img class="projectView" src="/media/valorOutdoor2.webp" alt="" />
