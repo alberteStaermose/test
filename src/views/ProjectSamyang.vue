@@ -74,7 +74,8 @@
         </ul>
         <p>
           Disse insights har jeg brugt til at udvikle en ny brandstrategi, som
-          jeg har brugt til at udvikle en ny visuel identitet.
+          jeg har brugt til at udvikle en ny visuel identitet, der er klart
+          inspireret af Korea og deres traditinelle kunstart minhwa.
         </p>
       </div>
     </section>
@@ -82,7 +83,8 @@
       <article class="grid gap-20 justify-items-center">
         <img class="w-2/3" src="/media/samyangLogo.webp" alt="" />
         <img class="" src="/media/samyangLogos.webp" alt="" />
-        <img class="" src="/media/samyangLogos.webp" alt="" />
+        <img class="" src="/media/samyangGrafik.webp" alt="" />
+        <img class="" src="/media/samyangNuddel.webp" alt="" />
       </article>
 
       <article>
@@ -91,49 +93,65 @@
           <div>
             <h4>Hvad gør vi og hvordan gør vi det?</h4>
             <p>
-              Vi skaber et varmt mødested for alle, der kan rumme både events og
-              alle salgs kaffetørstige individer. Vi mødes om en kop kaffe eller
-              en bid mad. Mad, der tager højde for alle slags diæter.
+              Vi er en virksomhed der går meget op i kvaliteten af vores
+              produkter, samtidig med at vi går op i smagen og sundheden af
+              vores produkter. Vi producerer og forbedre derfor hele tiden alle
+              vores produkter ud fra forskning. Vi er blandt de førende indenfor
+              Koreanske instant ramen og har en kæmpe eksport af ramen til hele
+              verden. Ramen-nudlerne er af samme kvalitet og smager præcis lige
+              som Koreanerne selv vil have dem. Vi deler altså en typisk og
+              historisk Koreansk spise med resten af verden.
             </p>
           </div>
           <div>
             <h4>Hvad er vores vigtigste værdier?</h4>
-            <p>Fælleskab, ansvarlighed og inklusivitet.</p>
+            <p>
+              Autentiske - Vi er Koreanske indefra og ud. <br />
+              Kvalitetsbevidste - Vi leverer god service og produkter af høj
+              kvalitet. <br />
+              Gennemsigtighed - Ansatte og kunder skal ikke være i tvivl om hvem
+              Saymyang er og hvad de står for.
+            </p>
           </div>
           <div>
             <h4>Hvem er vi her for?</h4>
             <p>
-              Progressive Københavnere, der søger et meningsfuldt fælleskab.
+              Vi er her for alle dem der søger et billigt, autentisk og mest af
+              alt et let måltid.
             </p>
           </div>
           <div>
             <h4>Hvorfor er vi her?</h4>
-            <p>Fordi alle har behov for et fælles samlingspunkt</p>
+            <p>Vi er her for at sætte Koreansk ramen på verdenskortet.</p>
           </div>
           <div>
             <h4>Vores ambition</h4>
             <p>
-              Vi har en ambition om at være mødestedet på Vesterbro, hvor man
-              kan komme og blive en del af os og vores fællesskab.
+              Vi stræber efter at være førende indenfor Koreanske ramen i
+              verden.
             </p>
           </div>
           <div>
             <h4>Hvad skiller os ud?</h4>
             <p>
-              Fællesskabet, det sociale, at hjælpe udsatte og være mødestedet
-              for ensomme unge
+              Vi er de første instant-ramen producenter i Korea, og har siden
+              1963, fokuseret på at producere ikke kun ramen men også andre
+              produkter med den bedste smag og kvalitet til koreanerne.
             </p>
           </div>
           <div>
             <h4>Hvad er vores personlighed?</h4>
             <p>
-              Vi er fællesskabsorienterede, chill, tidløse, urbane og lokale.
+              Samyang er mest af alt autentiske og inspireres af Koreas kultur.
+              Vi er minimalistiske og stilrene for at udstråle seriøsiteten i
+              vores produkter. Alt dette gør vi med et glimt i øjet og med klar
+              inspiration fra den Koreanske animationsverden.
             </p>
           </div>
         </div>
       </article>
       <article class="grid gap-20">
-        <img src="/media/sonjaIdentitet.webp" alt="" />
+        <img src="/media/samyangVisuelidentitet.webp" alt="" />
       </article>
     </section>
   </main>
