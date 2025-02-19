@@ -29,99 +29,62 @@
     <section class="grid grid-cols-3 p-20 gap-10 bg-white">
       <div>
         <h2>Clientbrief</h2>
-        <p>
-          Vi ønsker at opfriske Café Sonja brandet. Café Sonja har eksisteret i
-          over 30 år og har været mange forskellige ting igennem tiderne. Nu har
-          vi fundet et cafékoncept, som er populært og nu skal vi fortælle endnu
-          mere om det og styrke vores brand. Café Sonja har sit navn efter
-          Tv-serien Sonja i Saxogade og det fylder nogle gange lidt for meget,
-          så derfor vil vi gerne frigøre os fra den historie uden at glemme det
-          helt – så vi ønsker ikke at skifte navn, men få sat nogle flere
-          historie på hvad Café Sonja er.
-          <br />
-          Café Sonja skal være i top 3, når man tænker på klassiske cafeer i
-          København. Vi er en af de første cafeer i KBH, så vi skal være mere
-          kendte. Vi ønsker, at vi med et styrket brand, kan vise alt det Sonja
-          er og tiltrække flere gæster og turister. Sonja er en del af det store
-          sociale arbejde der bliver lavet i Saxogade og det må meget gerne
-          skinne igennem i brandet, samtidigt med at vi stadig skal fremstå som
-          en up-to-date café i kbh.
-        </p>
+        <p>....</p>
       </div>
       <div>
         <h2>Proces</h2>
         <p>
-          Vi startede hele projektet ud med en dybdegående research som vi
-          strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
-          Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
-          data-indsamling i form af deskresearch, interviews, spørgeskemaer og
-          observationer. <br />
-          Ud fra vores research lavede vi en ny brandstrategi til Café Sonja,
-          som ligger til grund for den nye verbale og visuelle identitet vi har
-          udviklet til Café Sonja. Udover dette valgte vi at ændre navnet fra
-          "Café Sonja" til "Sonja's", for at udfordre client briefen.
+          Jeg startede hele projektet ud med en dybdegående research som jeg
+          strukturerede ud fra Jhonsons 4C'er, Client, Consumer, Culture og
+          Categori. Dette indebar en masse kvalitativ og kvantitav
+          data-indsamling i form af deskresearch, interviews og spørgeskemaer<br />
+          Ud fra min research lavede jeg en ny brandstrategi til Samyang Foods,
+          som ligger til grund for den nye verbale og visuelle identitet.
+          Herefter fokuserede jeg på deres originale instant nudler og
+          implementerede den nye visuelle identitet. Tanken er at Samyang Foods
+          er et paraplybrand med en visuel identitet, der går igen på alle deres
+          produkter, men med et lille twist i form af et "logo" til hver
+          produktserie.
         </p>
       </div>
       <div>
         <h2>Insight og løsning</h2>
-        <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
+        <p class="mb-3">Ud fra min research kom jeg frem til 4 insights:</p>
         <ul class="gap-3 grid mb-3">
           <li>
-            En cafe som alle andre, men som har mere fokus på caféen som third
-            place og fællesskabet end kvaliteten af kaffen - Mere folkehus end
-            kommerciel café.
+            Samyang nudler skiller sig ikke ud fra konkurrenterne visuelt og
+            verbalt, på trods af at de har en fin fortælling om kvalitet gennem
+            forskning og at de er de første på det Koreanske marked.
           </li>
-          <li>Fællesskabsorienterede københavnere.</li>
-          <li>Mere fokus på kommunikation af fællesskabet.</li>
           <li>
-            Mange lider af ensomhed som Café Sonja vil skabe et rum for, hvor
-            man kan mødes og skabe nye relationer.
+            Det er vigtigt at både det indre og ydre er asiatisk og flere ønsker
+            gerne at det bliver tydligere hvor i verden nudlerne kommer fra, men
+            det er vigtigt at man kan se på dem at de ikke bare er en Rema1000
+            eller Netto nuddel.
+          </li>
+          <li>
+            Konkurrenterne benytter en sød og sjov maskot som giver dem
+            genkendelighed, men der mangler en rød tråd og de har en tendens til
+            en rodet visuel identitet.
+          </li>
+          <li>
+            Korea som land og kultur stiger i popularitet på verdensplan,
+            hvilket blandt andet ses på SoMe i form af madvideoer.
           </li>
         </ul>
         <p>
-          Disse insights har vi brugt til at udvikle en ny brandstrategi, en
-          tone of voice og et manifest, og ud fra det udviklet en ny visuel
-          identitet.
+          Disse insights har jeg brugt til at udvikle en ny brandstrategi, som
+          jeg har brugt til at udvikle en ny visuel identitet.
         </p>
       </div>
     </section>
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
-      <article class="grid gap-20">
-        <img src="/media/sonjaLogo.webp" alt="" />
-        <img src="/media/sonjaTagline.webp" alt="" />
-        <img src="/media/sonjaGrafik.webp" alt="" />
-        <img src="/media/sonjaInsta.webp" alt="" />
-        <img src="/media/sonjaMenu.webp" alt="" />
+      <article class="grid gap-20 justify-items-center">
+        <img class="w-2/3" src="/media/samyangLogo.webp" alt="" />
+        <img class="" src="/media/samyangLogos.webp" alt="" />
+        <img class="" src="/media/samyangLogos.webp" alt="" />
       </article>
 
-      <article class="grid grid-cols-2 gap-40">
-        <div>
-          <h2>Tone of voice</h2>
-          <p>
-            Café Sonja’s Tone of Voice er varm, uformel og indbydende. Den taler
-            direkte til fællesskabet og understøtter følelsen af at være et
-            åbent og inkluderende sted, hvor alle er velkomne. Sproget er
-            jordnært og personligt, hvilket afspejler filosofien om, at det skal
-            være et sted for alle. Der bruges hverdagsudtryk og en tone, der
-            skaber en følelse af, at man taler med en god ven, fremfor et brand.
-            Det gør, at Sonjas føles nært og tilgængeligt, og det fremhæver
-            ønsket om at bygge bro mellem mennesker i lokalområdet.
-          </p>
-        </div>
-        <div>
-          <h2>Manifest</h2>
-          <p>
-            Sonja's har siden 1986 været et samlingspunkt, hvor fællesskab står
-            i hjertet af alt, vi gør. Vores døre er altid åbne - hos os er man
-            velkommen, som man er. Ansvaret for vores lokalsamfund og den verden
-            vi lever, kræver en fælles indsats, og vi skaber et rum hvor vi alle
-            har en lige værdi. Vi omfavner diversitet og ser den som en styrke,
-            der gør vores fællesskab rigere. Vi vil være mødestedet på
-            Vesterbro. Sammen bygger vi broer mellem mennesker og fremmer
-            relationer, der varer ved.
-          </p>
-        </div>
-      </article>
       <article>
         <h2>Startegi</h2>
         <div class="grid grid-cols-3 gap-x-18 gap-y-5">
