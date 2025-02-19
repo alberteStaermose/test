@@ -50,15 +50,15 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pRF"
           ><div class="projectView">
             <p class="hidden">RF retursystem</p>
-            <img src="/media/samyangT-shirts.webp" alt="" /></div
+            <img src="/media/rfPlads.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
         <!--  -->
-        <RouterLink to="/pBlenderIsland"
+        <!-- <RouterLink to="/pBlenderIsland"
           ><div class="projectView">
             <p class="hidden">Blender Island</p>
             <img src="/media/samyangT-shirts.webp" alt="" /></div
-        ></RouterLink>
+        ></RouterLink> -->
         <!-- <RouterLink to="/pSonja"
           ><div class="projectView"><p>Egen font</p></div></RouterLink
         >
@@ -86,7 +86,7 @@ import HeroSection from "../components/HeroSection.vue";
 <style scoped>
 .projectView {
   height: 260px;
-  background-color: rgb(178, 178, 226);
+  background-color: white;
   display: grid;
   justify-content: center;
   align-items: end;

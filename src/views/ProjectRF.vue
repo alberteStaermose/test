@@ -3,10 +3,10 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img class="w-screen" src="/media/politikenEks1.webp" alt="" />
+      <img class="w-screen" src="/media/rfPlads.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 pl-20 pt-20 pb-10 pr-20">
-      <h1>Roskilde Festival</h1>
+    <section class="bg-white grid grid-cols-3 pl-20 pt-20 pb-10 pr-20">
+      <h1 class="col-span-2">Roskilde Festival</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
@@ -126,18 +126,30 @@
             allowfullscreen
           ></iframe>
           <div>
-            <h2>QR-koden</h2>
+            <h2>QR-koden og Orange Life</h2>
             <p>
               Ved at scanne QR-koden på plakaten eller koppen bliver du ledt ind
               til en side på appen hvor du kan kan læse mere om hvordan
               pantsystemet fungerer, have overblik over hvor mange kopper og
               kander du har gemt på dit armbånd (som du kan bruge næste gang du
               købe noget at drikke), og se et overblik over hvor meget der er
-              blevet pantet på festivelen.
+              blevet pantet på festivelen. <br />
+              Denne underside har vi valgt at kalde "MY CUP".
+              <br />
+              <br />
+              MY CUP er en del af det koncept vi har valgt at kalde "Orange
+              Life". Ligesom Orange Feeling er et velkendt begreb, er målet at
+              gøre Orange Life til en bæredygtig livsstil og adfærd på Roskilde
+              Festival. Vi lavede kun MY CUP under Orange Life, så de andre MY
+              ... er blot eksempler på hvordan man kunne vælge at udvide.
             </p>
           </div>
         </div>
-        <img src="/media/rfOrangelife.webp" alt="" />
+        <div class="grid grid-cols-5 gap-10">
+          <img class="col-span-3" src="/media/rfOrangelife.webp" alt="" />
+          <img src="/media/rfApp.webp" alt="" />
+          <img src="/media/rfApp2.webp" alt="" />
+        </div>
       </article>
     </section>
   </main>
