@@ -72,7 +72,7 @@
           >
         </h4>
         <h4 class="hover:scale-120">
-          2024: Færdiggjorde 2. semester på Coded Design og droppede ud
+          2024: Færdiggjorde 2. semester på Coded Design
         </h4>
         <h4 class="hover:scale-120">
           2024: Startede på Design og Business på specialretningen Creative
