@@ -5,7 +5,7 @@
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/politikenEks1.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 p-20">
+    <section class="bg-white grid grid-cols-2 pl-20 pt-20 pb-10 pr-20">
       <h1>Politiken Plus</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
@@ -26,70 +26,74 @@
         </div>
       </div>
     </section>
-    <section class="grid grid-cols-3 p-20 gap-10 bg-white">
-      <div>
-        <h2>Clientbrief</h2>
-        <p>
-          Udfordringen for Politiken Plus er at gentænke og revitalisere et
-          brand, der oprindeligt blev skabt i en anden tid og med et andet
-          formål. Selvom Plus har haft stor succes i fortden og stadig tilbyder
-          en bred vifte af fordele, er der flere centrale problemer, der skal
-          adresseres. Målet er at fastlægge en klar, værdibaseret retning, der
-          ikke blot fastholder eksisterende abonnenter, men også tiltrækker nye
-          segmenter, især målgruppen i alderen 30-45 år, der viser interesse for
-          Politiken som medie.
-          <br />
-          Drømmen er at gøre Plus til en central del af abonnenternes liv, hvor
-          de ikke bare modtager fordele, men også føler sig som en del af et
-          meningsfuldt fællesskab. Politiken Plus skal være det sted, hvor
-          kultur, kvalitet og fællesskab mødes, og hvor abonnenterne kan udleve
-          deres drømme og interesser i både fysiske og digitale verdener.
-        </p>
-      </div>
-      <div>
-        <h2>Proces</h2>
-        <p>
-          Vi startede hele projektet ud med en dybdegående research som vi
-          strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
-          Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
-          data-indsamling i form af deskresearch, interviews, spørgeskemaer og
-          observationer. <br />
-          Ud fra vores research lavede vi en ny brandstrategi til Politiken, som
-          ligger til grund for den nye verbale og visuelle identitet vi har
-          udviklet til Politiken Plus. Udover dette valgte vi at ændre navnet
-          fra Politiken "Plus" til Politiken "Puls".
-        </p>
-      </div>
-      <div>
-        <h2>Insight og løsning</h2>
-        <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
-        <ul class="gap-3 grid mb-3">
-          <li>
-            Der er en hul i markedet for at være en inspirerende univers, hvor
-            fordelene er særlig kurateret.
-          </li>
-          <li>
-            Målgruppen er travle og udbrændte, og søger aktiviteter, som beriger
-            og opfylder et selvreliserenede behov i en ensartet og praktisk
-            hverdag.
-          </li>
-          <li>
-            Der er en stigende tendens til at tage stilling til sig selv i en
-            kompleks og poleret verden , men det er dyrt.
-          </li>
-          <li>
-            På trods af en klar rød tråd mellem Politiken.dk og
-            PolitikenPlus.dk, så er det svært at finde information om, og
-            generelt finde et link til PolitikenPlus på Politiken.dk.
-          </li>
-        </ul>
-        <p>
-          Disse insights har vi brugt til at udvikle en ny brandstrategi, en
-          tone of voice og en tagline, og ud fra det udviklet en ny visuel
-          identitet og en prototype til et nyt site.
-        </p>
-      </div>
+    <section class="grid pl-20 pr-20 gap-10 bg-white">
+      <article class="grid grid-cols-3 p-10 mb-20 gap-10 bg-blue-50">
+        <div>
+          <h2>Clientbrief</h2>
+          <p>
+            Udfordringen for Politiken Plus er at gentænke og revitalisere et
+            brand, der oprindeligt blev skabt i en anden tid og med et andet
+            formål. Selvom Plus har haft stor succes i fortden og stadig
+            tilbyder en bred vifte af fordele, er der flere centrale problemer,
+            der skal adresseres. Målet er at fastlægge en klar, værdibaseret
+            retning, der ikke blot fastholder eksisterende abonnenter, men også
+            tiltrækker nye segmenter, især målgruppen i alderen 30-45 år, der
+            viser interesse for Politiken som medie.
+            <br />
+            Drømmen er at gøre Plus til en central del af abonnenternes liv,
+            hvor de ikke bare modtager fordele, men også føler sig som en del af
+            et meningsfuldt fællesskab. Politiken Plus skal være det sted, hvor
+            kultur, kvalitet og fællesskab mødes, og hvor abonnenterne kan
+            udleve deres drømme og interesser i både fysiske og digitale
+            verdener.
+          </p>
+        </div>
+        <div>
+          <h2>Proces</h2>
+          <p>
+            Vi startede hele projektet ud med en dybdegående research som vi
+            strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
+            Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
+            data-indsamling i form af deskresearch, interviews, spørgeskemaer og
+            observationer. <br />
+            Ud fra vores research lavede vi en ny brandstrategi til Politiken,
+            som ligger til grund for den nye verbale og visuelle identitet vi
+            har udviklet til Politiken Plus. Udover dette valgte vi at ændre
+            navnet fra Politiken "Plus" til Politiken "Puls".
+          </p>
+        </div>
+        <div>
+          <h2>Insight og løsning</h2>
+          <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
+          <ul class="gap-3 grid mb-3">
+            <li>
+              Der er en hul i markedet for at være en inspirerende univers, hvor
+              fordelene er særlig kurateret.
+            </li>
+            <li>
+              Målgruppen er travle og udbrændte, og søger aktiviteter, som
+              beriger og opfylder et selvreliserenede behov i en ensartet og
+              praktisk hverdag.
+            </li>
+            <li>
+              Der er en stigende tendens til at tage stilling til sig selv i en
+              kompleks og poleret verden , men det er dyrt.
+            </li>
+            <li>
+              På trods af en klar rød tråd mellem Politiken.dk og
+              PolitikenPlus.dk, så er det svært at finde information om, og
+              generelt finde et link til PolitikenPlus på Politiken.dk.
+            </li>
+          </ul>
+          <p>
+            Disse insights har vi brugt til at udvikle en ny brandstrategi, en
+            tone of voice og en tagline, og ud fra det udviklet en ny visuel
+            identitet og en prototype til et nyt site.
+          </p>
+        </div>
+      </article>
     </section>
+
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
         <img src="/media/politikenLogo.webp" alt="" />

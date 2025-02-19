@@ -5,7 +5,7 @@
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/sonjaIntro1.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 p-20">
+    <section class="bg-white grid grid-cols-2 pl-20 pt-20 pb-10 pr-20">
       <h1>Café Sonja</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
@@ -26,65 +26,68 @@
         </div>
       </div>
     </section>
-    <section class="grid grid-cols-3 p-20 gap-10 bg-white">
-      <div>
-        <h2>Clientbrief</h2>
-        <p>
-          Vi ønsker at opfriske Café Sonja brandet. Café Sonja har eksisteret i
-          over 30 år og har været mange forskellige ting igennem tiderne. Nu har
-          vi fundet et cafékoncept, som er populært og nu skal vi fortælle endnu
-          mere om det og styrke vores brand. Café Sonja har sit navn efter
-          Tv-serien Sonja i Saxogade og det fylder nogle gange lidt for meget,
-          så derfor vil vi gerne frigøre os fra den historie uden at glemme det
-          helt – så vi ønsker ikke at skifte navn, men få sat nogle flere
-          historie på hvad Café Sonja er.
-          <br />
-          Café Sonja skal være i top 3, når man tænker på klassiske cafeer i
-          København. Vi er en af de første cafeer i KBH, så vi skal være mere
-          kendte. Vi ønsker, at vi med et styrket brand, kan vise alt det Sonja
-          er og tiltrække flere gæster og turister. Sonja er en del af det store
-          sociale arbejde der bliver lavet i Saxogade og det må meget gerne
-          skinne igennem i brandet, samtidigt med at vi stadig skal fremstå som
-          en up-to-date café i kbh.
-        </p>
-      </div>
-      <div>
-        <h2>Proces</h2>
-        <p>
-          Vi startede hele projektet ud med en dybdegående research som vi
-          strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
-          Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
-          data-indsamling i form af deskresearch, interviews, spørgeskemaer og
-          observationer. <br />
-          Ud fra vores research lavede vi en ny brandstrategi til Café Sonja,
-          som ligger til grund for den nye verbale og visuelle identitet vi har
-          udviklet til Café Sonja. Udover dette valgte vi at ændre navnet fra
-          "Café Sonja" til "Sonja's", for at udfordre client briefen.
-        </p>
-      </div>
-      <div>
-        <h2>Insight og løsning</h2>
-        <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
-        <ul class="gap-3 grid mb-3">
-          <li>
-            En cafe som alle andre, men som har mere fokus på caféen som third
-            place og fællesskabet end kvaliteten af kaffen - Mere folkehus end
-            kommerciel café.
-          </li>
-          <li>Fællesskabsorienterede københavnere.</li>
-          <li>Mere fokus på kommunikation af fællesskabet.</li>
-          <li>
-            Mange lider af ensomhed som Café Sonja vil skabe et rum for, hvor
-            man kan mødes og skabe nye relationer.
-          </li>
-        </ul>
-        <p>
-          Disse insights har vi brugt til at udvikle en ny brandstrategi, en
-          tone of voice og et manifest, og ud fra det udviklet en ny visuel
-          identitet.
-        </p>
-      </div>
+    <section class="grid pl-20 pr-20 gap-10 bg-white">
+      <article class="grid grid-cols-3 p-10 mb-20 gap-10 bg-blue-50">
+        <div>
+          <h2>Clientbrief</h2>
+          <p>
+            Vi ønsker at opfriske Café Sonja brandet. Café Sonja har eksisteret
+            i over 30 år og har været mange forskellige ting igennem tiderne. Nu
+            har vi fundet et cafékoncept, som er populært og nu skal vi fortælle
+            endnu mere om det og styrke vores brand. Café Sonja har sit navn
+            efter Tv-serien Sonja i Saxogade og det fylder nogle gange lidt for
+            meget, så derfor vil vi gerne frigøre os fra den historie uden at
+            glemme det helt – så vi ønsker ikke at skifte navn, men få sat nogle
+            flere historie på hvad Café Sonja er.
+            <br />
+            Café Sonja skal være i top 3, når man tænker på klassiske cafeer i
+            København. Vi er en af de første cafeer i KBH, så vi skal være mere
+            kendte. Vi ønsker, at vi med et styrket brand, kan vise alt det
+            Sonja er og tiltrække flere gæster og turister. Sonja er en del af
+            det store sociale arbejde der bliver lavet i Saxogade og det må
+            meget gerne skinne igennem i brandet, samtidigt med at vi stadig
+            skal fremstå som en up-to-date café i kbh.
+          </p>
+        </div>
+        <div>
+          <h2>Proces</h2>
+          <p>
+            Vi startede hele projektet ud med en dybdegående research som vi
+            strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
+            Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
+            data-indsamling i form af deskresearch, interviews, spørgeskemaer og
+            observationer. <br />
+            Ud fra vores research lavede vi en ny brandstrategi til Café Sonja,
+            som ligger til grund for den nye verbale og visuelle identitet vi
+            har udviklet til Café Sonja. Udover dette valgte vi at ændre navnet
+            fra "Café Sonja" til "Sonja's", for at udfordre client briefen.
+          </p>
+        </div>
+        <div>
+          <h2>Insight og løsning</h2>
+          <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
+          <ul class="gap-3 grid mb-3">
+            <li>
+              En cafe som alle andre, men som har mere fokus på caféen som third
+              place og fællesskabet end kvaliteten af kaffen - Mere folkehus end
+              kommerciel café.
+            </li>
+            <li>Fællesskabsorienterede københavnere.</li>
+            <li>Mere fokus på kommunikation af fællesskabet.</li>
+            <li>
+              Mange lider af ensomhed som Café Sonja vil skabe et rum for, hvor
+              man kan mødes og skabe nye relationer.
+            </li>
+          </ul>
+          <p>
+            Disse insights har vi brugt til at udvikle en ny brandstrategi, en
+            tone of voice og et manifest, og ud fra det udviklet en ny visuel
+            identitet.
+          </p>
+        </div>
+      </article>
     </section>
+
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
         <img src="/media/sonjaLogo.webp" alt="" />
