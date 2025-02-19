@@ -21,6 +21,17 @@ import { RouterLink, RouterView } from "vue-router";
   </header>
 
   <RouterView />
+
+  <footer>
+    <section class="flex justify-center py-20 gap-28 bg-white">
+      <div class="buttonContainer">
+        <a href="" class="custom-button w-48 h-48">Linked-IN</a>
+      </div>
+      <div class="buttonContainer">
+        <a href="" class="custom-button w-48 h-48">Instagram</a>
+      </div>
+    </section>
+  </footer>
 </template>
 
 <style scoped></style>

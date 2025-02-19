@@ -75,6 +75,14 @@ li {
   /* text-transform: uppercase; */
 }
 
+.tidslinje a {
+  border-bottom: solid 0.5px black;
+}
+.tidslinje a:hover {
+  color: blue;
+  border-bottom: solid 0.5px blue;
+}
+
 .buttonContainer {
   height: 130px;
   width: 130px;

@@ -72,14 +72,6 @@ import HeroSection from "../components/HeroSection.vue";
           ><div class="projectView"><p>Bullet Tounge</p></div></RouterLink -->
       </article>
     </section>
-    <section class="flex justify-center py-20 gap-28">
-      <div class="buttonContainer">
-        <a href="" class="custom-button w-48 h-48">Linked-IN</a>
-      </div>
-      <div class="buttonContainer">
-        <a href="" class="custom-button w-48 h-48">Instagram</a>
-      </div>
-    </section>
   </main>
 </template>
 
@@ -89,7 +81,7 @@ import HeroSection from "../components/HeroSection.vue";
   background-color: white;
   display: grid;
   justify-content: center;
-  align-items: end;
+  align-items: center;
   overflow: hidden;
 }
 /* .projectView img {
@@ -106,7 +98,7 @@ import HeroSection from "../components/HeroSection.vue";
 .projectView:hover {
   /* height: 300px; */
   /* display: none; */
-  background-color: white;
+  background-color: oklch(0.977 0.013 236.62);
 }
 .projectView:hover img {
   display: none;
