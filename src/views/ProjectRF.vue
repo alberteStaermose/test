@@ -96,6 +96,19 @@
       <article class="grid gap-20">
         <img src="/media/rfSaveOrSwap.webp" alt="" />
         <img src="/media/rfCup.webp" alt="" />
+        <div class="grid grid-cols-2 gap-56">
+          <img src="/media/rfPlakatBlaa.webp" alt="" />
+          <img src="/media/rfPlakatOrange.webp" alt="" />
+        </div>
+        <img
+          class="w-2/3 justify-self-center"
+          src="/media/rfPladsen.webp"
+          alt=""
+        />
+        <div class="grid grid-cols-2 gap-20">
+          <img src="/media/rfBarskilt.webp" alt="" />
+          <img src="/media/rfDonate.webp" alt="" />
+        </div>
       </article>
       <iframe
         class="w-full"
