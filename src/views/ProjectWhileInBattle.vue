@@ -126,6 +126,8 @@
             <a
               class="custom-button"
               href="https://master--alberteogjosefine.netlify.app/"
+              target="_blank"
+              rel="noopener noreferrer"
               >Site</a
             >
           </div>
