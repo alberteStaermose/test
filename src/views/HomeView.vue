@@ -69,12 +69,14 @@ import HeroSection from "../components/HeroSection.vue";
 
 <style scoped>
 .projectView {
-  height: 300px;
+  height: 260px;
   background-color: rgb(178, 178, 226);
+  display: grid;
+  justify-content: center;
 }
-.projectView img {
+/* .projectView img {
   width: 100%;
-}
+} */
 .projectView p {
   display: none;
 }
@@ -83,7 +85,7 @@ import HeroSection from "../components/HeroSection.vue";
   display: block;
 }
 .projectView:hover {
-  height: 300px;
+  /* height: 300px; */
   /* display: none; */
   background-color: blue;
 }

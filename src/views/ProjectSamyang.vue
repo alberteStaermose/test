@@ -10,15 +10,15 @@
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
-          <h4>Skoleprojekt</h4>
+          <h4>Eksamensprojekt</h4>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Type:</h3>
-          <h4>Gruppeopgave</h4>
+          <h4>Individuel opgave</h4>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Politiken</h4>
+          <h4>Samyang Foods</h4>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
