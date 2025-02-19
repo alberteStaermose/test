@@ -14,26 +14,39 @@ import HeroSection from "../components/HeroSection.vue";
             <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
           </div>
         </RouterLink>
+        <!--  -->
+        <!--  -->
+
         <RouterLink to="/pValor">
           <div class="projectView">
             <p class="hidden">Valør</p>
             <img class="projectView" src="/media/valorOutdoor2.webp" alt="" />
           </div>
         </RouterLink>
+        <!--  -->
+        <!--  -->
         <RouterLink to="/pPolitiken">
           <div class="projectView">
             <p class="hidden">Politiken Plus</p>
             <img src="/media/politikenLogo.webp" alt="" />
           </div>
         </RouterLink>
+        <!--  -->
+        <!--  -->
         <RouterLink to="/pWhileInBattle"
           ><div class="projectView">
             <p class="hidden">While In Battle</p>
             <img src="/media/whilePlakatSort.webp" alt="" /></div
         ></RouterLink>
-        <RouterLink to="/pSonja">
-          <div class="projectView"><p>Samyang</p></div>
-        </RouterLink>
+        <!--  -->
+        <!--  -->
+        <RouterLink to="/pSamyang"
+          ><div class="projectView">
+            <p class="hidden">Samyang</p>
+            <img src="/media/whilePlakatSort.webp" alt="" /></div
+        ></RouterLink>
+        <!--  -->
+        <!--  -->
         <RouterLink to="/pSonja"
           ><div class="projectView"><p>Egen font</p></div></RouterLink
         >
