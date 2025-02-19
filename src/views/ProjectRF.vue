@@ -110,73 +110,34 @@
           <img src="/media/rfDonate.webp" alt="" />
         </div>
       </article>
-      <iframe
-        class="w-full"
-        style="border: 1px solid rgba(0, 0, 0, 0.1)"
-        height="450"
-        src="https://embed.figma.com/proto/lAaXarackx2uzXIWjo5JDI/Portfolio?page-id=0%3A1&node-id=1-17311&p=f&viewport=280%2C148%2C0.02&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A17378&embed-host=share"
-        allowfullscreen
-      ></iframe>
 
-      <article class="grid grid-cols-2 gap-40">
-        <div>
-          <h2>Tagline</h2>
-          <img src="/media/politikenTagline.webp" alt="" />
-        </div>
-        <div>
-          <h2>Brandvoice</h2>
-          <img src="/media/politikenVoice.webp" alt="" />
-        </div>
-      </article>
-      <article>
-        <h2>Startegi</h2>
-        <div class="grid grid-cols-3 gap-x-18 gap-y-5">
-          <div>
-            <h4>Hvad gør vi og hvordan gør vi det?</h4>
-            <p>
-              Tilbyde et overskueligt, tilgængeligt og attraktivt fordelsunivers
-              til politiken.
-            </p>
-          </div>
-          <div>
-            <h4>Hvad er vores vigtigste værdier?</h4>
-            <p>
-              Humor, relaterbare med et glimt i øjet <br />
-              Orienteret, opdateret og nysgerrige<br />
-              Tilgængelighed, overskueligt og intuitiv
-            </p>
-          </div>
-          <div>
-            <h4>Hvem er vi her for?</h4>
-            <p>
-              De reflekterede og selvbevidste individer, som er nysgerrige, men
-              øver sig i at prioritere sig selv og finde alternative pusterum i
-              en triviel hverdag.
-            </p>
-          </div>
-          <div>
-            <h4>Hvorfor er vi her?</h4>
-            <p>Følg din puls</p>
-          </div>
-          <div>
-            <h4>Vores ambition</h4>
-            <p>Gøre kultur mere tilgængelig uden at gå på kompromis.</p>
-          </div>
-          <div>
-            <h4>Hvad skiller os ud?</h4>
-            <p>
-              Kommunikation med en humoristisk tilgang i et visuelt inspirerende
-              fordelsunivers med relevans.
-            </p>
-          </div>
-          <div>
-            <h4>Hvad er vores personlighed?</h4>
-            <img src="/media/politikenPersonlighed.webp" alt="" />
-          </div>
-        </div>
-      </article>
       <article class="grid gap-20">
-        <img src="/media/politikenIdentitet.webp" alt="" />
+        <img
+          class="w-2/3 justify-self-center"
+          src="/media/rfScan.webp"
+          alt=""
+        />
+        <div class="grid grid-cols-2 gap-10">
+          <iframe
+            style="border: 1px solid rgba(0, 0, 0, 0.1)"
+            width="100%"
+            height="450"
+            src="https://embed.figma.com/proto/lAaXarackx2uzXIWjo5JDI/Portfolio?page-id=120%3A72&node-id=120-123&viewport=103%2C69%2C0.39&scaling=scale-down&content-scaling=fixed&embed-host=share"
+            allowfullscreen
+          ></iframe>
+          <div>
+            <h2>QR-koden</h2>
+            <p>
+              Ved at scanne QR-koden på plakaten eller koppen bliver du ledt ind
+              til en side på appen hvor du kan kan læse mere om hvordan
+              pantsystemet fungerer, have overblik over hvor mange kopper og
+              kander du har gemt på dit armbånd (som du kan bruge næste gang du
+              købe noget at drikke), og se et overblik over hvor meget der er
+              blevet pantet på festivelen.
+            </p>
+          </div>
+        </div>
+        <img src="/media/rfOrangelife.webp" alt="" />
       </article>
     </section>
   </main>
