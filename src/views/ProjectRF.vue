@@ -18,11 +18,11 @@
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Café Sonja</h4>
+          <h4>Roskilde Festival</h4>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Strateg og grafiker</h4>
+          <h4>Konceptudvikler og grafiker</h4>
         </div>
       </div>
     </section>
@@ -31,64 +31,62 @@
         <div>
           <h2>Clientbrief</h2>
           <p>
-            Udfordringen for Politiken Plus er at gentænke og revitalisere et
-            brand, der oprindeligt blev skabt i en anden tid og med et andet
-            formål. Selvom Plus har haft stor succes i fortden og stadig
-            tilbyder en bred vifte af fordele, er der flere centrale problemer,
-            der skal adresseres. Målet er at fastlægge en klar, værdibaseret
-            retning, der ikke blot fastholder eksisterende abonnenter, men også
-            tiltrækker nye segmenter, især målgruppen i alderen 30-45 år, der
-            viser interesse for Politiken som medie.
-            <br />
-            Drømmen er at gøre Plus til en central del af abonnenternes liv,
-            hvor de ikke bare modtager fordele, men også føler sig som en del af
-            et meningsfuldt fællesskab. Politiken Plus skal være det sted, hvor
-            kultur, kvalitet og fællesskab mødes, og hvor abonnenterne kan
-            udleve deres drømme og interesser i både fysiske og digitale
-            verdener.
+            I skal i teams på jeres studieretning udvikle en ny, innovativ
+            designløsning, et koncept eller en service til en eksisterende
+            virksomhed, inspireret af modulets tema ”Pre-loved”. I skal finde en
+            eksisterende virksomhed indenfor mode- og livsstilbranchen, som I
+            vil “samarbejde med” og bruge som afsæt for jeres løsning. I skal se
+            nærmere på denne virksom- hed og tænke i, hvordan lige netop denne
+            kan tilpasse sig i en (fiktiv) fremtid, hvor brugen af jomfruelige
+            materialer ikke længere er lovlig. Vi forestiller os et
+            fremtidsscenarie, hvor EU er kommet med en lovgivning, der forbyder
+            produktion af produkter fremstillet af nyfremstillede råvarer og
+            materialer. Til sidst skal I overveje, hvem der er målgruppen for
+            jeres løsning, og hvordan I bedst kan ramme netop denne mod- tager.
           </p>
         </div>
         <div>
           <h2>Proces</h2>
           <p>
-            Vi startede hele projektet ud med en dybdegående research som vi
-            strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
-            Culture og Categori. Dette indbar en masse kvalitativ og kvantitav
-            data-indsamling i form af deskresearch, interviews, spørgeskemaer og
-            observationer. <br />
-            Ud fra vores research lavede vi en ny brandstrategi til Politiken,
-            som ligger til grund for den nye verbale og visuelle identitet vi
-            har udviklet til Politiken Plus. Udover dette valgte vi at ændre
-            navnet fra Politiken "Plus" til Politiken "Puls".
+            Processen for denne opgave tog inspiration i Design Thinking
+            metoden, med en eksperimenterende og eksplorativ tilgang. Det vil
+            sige, at der var brede rammer for, hvad vores løsning kunne være, så
+            længe den kunne relatere sig til briefen, ”Pre-loved”, og pege på en
+            løsning til nogle af de udfordringer, vi står overfor i verden i
+            dag. Det kunne være små eller store tiltag; alt fra et nyt
+            materiale, et bæredygtigt brandingtiltag, en ny service, et nyt
+            system eller produkt. Dog var det vigtigt, at løsningen ikke blot
+            var en abstrakt ide, men at vi sørgede for at gøre den konkret og
+            håndgribelig ved hjælp af en fysisk eller digital prototype.
           </p>
         </div>
         <div>
           <h2>Insight og løsning</h2>
-          <p class="mb-3">Ud fra vores research kom vi frem til 4 insights:</p>
+          <p class="mb-3">
+            Ud fra en dybdegående research med deskresearch, interviews,
+            spørgeskemaer og mobiletnografisk undersøgelse kom vi frem til 3
+            insights:
+          </p>
           <ul class="gap-3 grid mb-3 list-inside">
             <li>
-              Der er en hul i markedet for at være en inspirerende univers, hvor
-              fordelene er særlig kurateret.
+              Der tegner sig et billede af, at kommunikationen af pantsystemet
+              ikke er god og forstålig nok.
             </li>
             <li>
-              Målgruppen er travle og udbrændte, og søger aktiviteter, som
-              beriger og opfylder et selvreliserenede behov i en ensartet og
-              praktisk hverdag.
+              Det er et problem at kalde det pant, når du betaler 5 kr, men kun
+              får 1 kr igen.
             </li>
             <li>
-              Der er en stigende tendens til at tage stilling til sig selv i en
-              kompleks og poleret verden , men det er dyrt.
-            </li>
-            <li>
-              På trods af en klar rød tråd mellem Politiken.dk og
-              PolitikenPlus.dk, så er det svært at finde information om, og
-              generelt finde et link til PolitikenPlus på Politiken.dk.
+              Målgruppen vi vil fokusere på er "de unge-voksne" da de er
+              fremtidens festivalgæster og derfor giver mening at forme og ændre
+              deres vaner fremfor de garvede festivalgæster.
             </li>
           </ul>
           <p>
-            Disse insights har vi brugt til at udvikle en ny brandstrategi, en
-            tone of voice og en tagline, og ud fra det udviklet en ny visuel
-            identitet og en prototype til et nyt site.
+            Ud fra disse insights kom vi frem til denne problemstilling: Hvordan
+            kan vi gennem Roskilde Festivals kommunikation og markedsføring være
+            med til at ændre gæsternes adfærd over for, hvordan de benytter
+            retursystemet?
           </p>
         </div>
       </article>
@@ -96,11 +94,8 @@
 
     <section class="pl-40 pb-20 pr-40 bg-white gap-20 grid">
       <article class="grid gap-20">
-        <img src="/media/politikenLogo.webp" alt="" />
-        <img src="/media/politikenGrafik.webp" alt="" />
-        <img src="/media/politikenBilledstil.webp" alt="" />
-        <img src="/media/politikenEks1.webp" alt="" />
-        <img src="/media/politikenEks2.webp" alt="" />
+        <img src="/media/rfSaveOrSwap.webp" alt="" />
+        <img src="/media/rfCup.webp" alt="" />
       </article>
       <iframe
         class="w-full"
