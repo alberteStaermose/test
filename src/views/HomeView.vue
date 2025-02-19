@@ -43,7 +43,7 @@ import HeroSection from "../components/HeroSection.vue";
         <RouterLink to="/pSamyang"
           ><div class="projectView">
             <p class="hidden">Samyang</p>
-            <img src="/media/whilePlakatSort.webp" alt="" /></div
+            <img src="/media/samyangT-shirts.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
         <!--  -->

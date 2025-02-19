@@ -3,10 +3,10 @@
 <template>
   <main>
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
-      <img class="w-screen" src="/media/sonjaIntro1.webp" alt="" />
+      <img class="w-screen" src="/media/samyangT-shirts.webp" alt="" />
     </section>
     <section class="bg-white grid grid-cols-2 p-20">
-      <h1>Café Sonja</h1>
+      <h1>Samyang Foods</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
