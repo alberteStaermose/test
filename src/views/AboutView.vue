@@ -45,25 +45,25 @@
     </section>
     <section class="px-56">
       <div class="grid gap-10 text-center">
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2021: Startede på Multimediedesign på
           <a
             href="https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner"
             >KEA - Københavns Erhvervsakademi</a
           >
         </h4>
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2023: Startede som Digital Designer hos
           <a href="https://www.heagenda.dk/"> Hansen og Ersbøll Agenda</a>
         </h4>
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2023: Blev færdiguddannet som Multimediedesigner fra
           <a
             href="https://kea.dk/uddannelser/erhvervsakademi/multimediedesigner"
             >KEA - Københavns Erhvervsakademi</a
           >
         </h4>
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2023: Startede på Visuel Kommunikation på studieretningen Coded Design
           på
           <a
@@ -71,10 +71,10 @@
             >DMJX</a
           >
         </h4>
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2024: Færdiggjorde 2. semester på Coded Design
         </h4>
-        <h4 class="hover:scale-120">
+        <h4 class="tidslinje">
           2024: Startede på Design og Business på specialretningen Creative
           Branding på
           <a
