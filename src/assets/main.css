@@ -75,10 +75,17 @@ li {
   /* text-transform: uppercase; */
 }
 
+.buttonContainer {
+  height: 130px;
+  width: 130px;
+  display: grid;
+  justify-content: center;
+}
+
 .custom-button {
   display: flex;
-  width: 100px; /* Set a fixed width */
-  height: 100px; /* Set the same height for a perfect circle */
+  /* width: 100px;
+  height: 100px;  */
   border-radius: 50%;
   border-radius: 50%; /* Makes it a circle */
   font-size: 20px;
@@ -99,11 +106,6 @@ li {
 .custom-button:hover {
   background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
-  width: 110px; /* Set a fixed width */
-  height: 110px; /* Set the same height for a perfect circle */
-}
-
-.custom-button.group-hover {
   transform: scale(1);
 }
 

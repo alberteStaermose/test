@@ -47,7 +47,19 @@ import HeroSection from "../components/HeroSection.vue";
         ></RouterLink>
         <!--  -->
         <!--  -->
-        <RouterLink to="/pSonja"
+        <RouterLink to="/pRF"
+          ><div class="projectView">
+            <p class="hidden">RF retursystem</p>
+            <img src="/media/samyangT-shirts.webp" alt="" /></div
+        ></RouterLink>
+        <!--  -->
+        <!--  -->
+        <RouterLink to="/pBlenderIsland"
+          ><div class="projectView">
+            <p class="hidden">Blender Island</p>
+            <img src="/media/samyangT-shirts.webp" alt="" /></div
+        ></RouterLink>
+        <!-- <RouterLink to="/pSonja"
           ><div class="projectView"><p>Egen font</p></div></RouterLink
         >
         <RouterLink to="/pSonja"
@@ -57,12 +69,16 @@ import HeroSection from "../components/HeroSection.vue";
           ><div class="projectView"><p>Olsen Banden spil</p></div></RouterLink
         >
         <RouterLink to="/pSonja"
-          ><div class="projectView"><p>Bullet Tounge</p></div></RouterLink
-        >
-        <RouterLink to="/pSonja"
-          ><div class="projectView"><p>Blender Island</p></div></RouterLink
-        >
+          ><div class="projectView"><p>Bullet Tounge</p></div></RouterLink -->
       </article>
+    </section>
+    <section class="flex justify-center py-20 gap-28">
+      <div class="buttonContainer">
+        <a href="" class="custom-button w-48 h-48">Linked-IN</a>
+      </div>
+      <div class="buttonContainer">
+        <a href="" class="custom-button w-48 h-48">Instagram</a>
+      </div>
     </section>
   </main>
 </template>
@@ -74,6 +90,7 @@ import HeroSection from "../components/HeroSection.vue";
   display: grid;
   justify-content: center;
   align-items: end;
+  overflow: hidden;
 }
 /* .projectView img {
   width: 100%;
