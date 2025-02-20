@@ -78,17 +78,20 @@ onMounted(() => {
 
 <template>
   <main>
-    <div class="myBox text-white text-center">
-      <h1 class="">Alberte Stærmose</h1>
-      <h4>Kreativ Designer</h4>
+    <div id="cirkler">
+      <div class="myBox text-white text-center">
+        <h1 class="">Alberte Stærmose</h1>
+        <h4>Kreativ Designer</h4>
+      </div>
+      <!-- Use ref for the canvas -->
+      <canvas ref="canvasRef" width="1000px" height="1000px"></canvas>
     </div>
-    <!-- Use ref for the canvas -->
-    <canvas ref="canvasRef" width="1000px" height="1000px"></canvas>
   </main>
 </template>
 
 <style>
-main {
+#cirkler {
+  /* z-index: -30; */
   background-color: #04151e;
 }
 
