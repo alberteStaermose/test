@@ -5,24 +5,24 @@
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/samyangT-shirts.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 pr-20 pl-20 pb-10 pt-20">
-      <h1>Samyang Foods</h1>
+    <section class="bg-white grid grid-cols-3 pr-20 pl-20 pb-10 pt-20">
+      <h1 class="col-span-2">Samyang Foods</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
-          <h4>Eksamensprojekt</h4>
+          <p>Eksamensprojekt</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Type:</h3>
-          <h4>Individuel opgave</h4>
+          <p>Individuel opgave</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Samyang Foods</h4>
+          <p>Samyang Foods</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Strateg og Grafiker</h4>
+          <p>Strateg og Grafiker</p>
         </div>
       </div>
     </section>

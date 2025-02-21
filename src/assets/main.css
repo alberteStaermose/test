@@ -13,23 +13,19 @@ video {
 }
 
 #CircleButton {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
+  font-family: "Varela Round", serif;
   font-weight: 400;
+
   font-style: normal;
   font-size: 1.1rem;
 }
 
 #CircleButton:hover {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
   font-size: 1.25rem;
 }
 
 h1 {
-  font-family: "Michroma", sans-serif;
+  font-family: "Varela Round", serif;
   font-weight: 400;
   font-style: normal;
   font-size: 4.5rem;
@@ -37,40 +33,42 @@ h1 {
 }
 
 h2 {
-  font-family: "Michroma", sans-serif;
+  font-family: "Varela Round", serif;
   font-weight: 400;
   font-style: normal;
   text-transform: uppercase;
   font-size: 1.5rem;
 }
 h3 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Varela Round", serif;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+h4 {
+  font-family: "Figtree", serif;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 650;
   font-style: normal;
   font-size: 1.2rem;
 }
-h4 {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-  font-size: 1rem;
-}
 p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Figtree", serif;
   font-optical-sizing: auto;
-  font-weight: 300;
+
   font-style: normal;
-  font-size: 0.8rem;
+  font-weight: 300;
+
+  font-size: 0.9rem;
 }
 
 li {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Figtree", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   list-style-type: circle;
   /* text-transform: uppercase; */
 }

@@ -27,14 +27,14 @@ import { RouterLink, RouterView } from "vue-router";
       <div class="buttonContainer">
         <a
           href="www.linkedin.com/in/alberte-stærmose-b182b2232"
-          class="custom-button w-48 h-48"
+          class="custom-button w-36 h-36"
           >Linked-IN</a
         >
       </div>
       <div class="buttonContainer">
         <a
           href="https://www.instagram.com/alberte_staermose?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-          class="custom-button w-48 h-48"
+          class="custom-button w-36 h-36"
           >Instagram</a
         >
       </div>

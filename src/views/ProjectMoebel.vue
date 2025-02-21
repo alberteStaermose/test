@@ -5,24 +5,24 @@
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/valorPoster-4.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 pt-20 pl-20 pb-10 pr-20">
-      <h1>Valør</h1>
+    <section class="bg-white grid grid-cols-3 pt-20 pl-20 pb-10 pr-20">
+      <h1 class="col-span-2">Valør</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
-          <h4>Eksamensprojekt</h4>
+          <p>Eksamensprojekt</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Type:</h3>
-          <h4>Individuel opgave</h4>
+          <p>Individuel opgave</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Møbelbutik</h4>
+          <p>Møbelbutik</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Brand designer og projektleder</h4>
+          <p>Brand designer og projektleder</p>
         </div>
       </div>
     </section>

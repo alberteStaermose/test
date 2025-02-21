@@ -5,24 +5,24 @@
     <section class="h-screen bg-[rgb(4,21,30)] sticky top-0 -z-20 w-screen">
       <img class="w-screen" src="/media/sonjaIntro1.webp" alt="" />
     </section>
-    <section class="bg-white grid grid-cols-2 pl-20 pt-20 pb-10 pr-20">
-      <h1>Café Sonja</h1>
+    <section class="bg-white grid grid-cols-3 pl-20 pt-20 pb-10 pr-20">
+      <h1 class="col-span-2">Café Sonja</h1>
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
-          <h4>Skoleprojekt</h4>
+          <p>Skoleprojekt</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Type:</h3>
-          <h4>Gruppeopgave</h4>
+          <p>Gruppeopgave</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Politiken</h4>
+          <p>Politiken</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Strateg og Grafiker</h4>
+          <p>Strateg og Grafiker</p>
         </div>
       </div>
     </section>

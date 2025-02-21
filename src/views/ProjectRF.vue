@@ -10,19 +10,19 @@
       <div class="justify-self-end">
         <div class="flex items-baseline gap-1">
           <h3>Projekt:</h3>
-          <h4>Skoleprojekt</h4>
+          <p>Skoleprojekt</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Type:</h3>
-          <h4>Gruppeopgave</h4>
+          <p>Gruppeopgave</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <h4>Roskilde Festival</h4>
+          <p>Roskilde Festival</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>
-          <h4>Konceptudvikler og grafiker</h4>
+          <p>Konceptudvikler og grafiker</p>
         </div>
       </div>
     </section>
