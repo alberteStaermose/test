@@ -8,40 +8,62 @@
 
     <section class="grid grid-cols-2 px-56 gap-x-20 gap-y-16">
       <div class="grid gap-10">
-        <div>
-          <h2>Hvem er jeg?</h2>
-          <p>
-            Mit navn er Alberte Stærmose. Jeg er uddannet Multimediedesigner fra
-            KEA - Københavns Erhvervsakademi, og studerer lige nu Design og
-            Business på studieretningen Creative Branding på KEA - Københavns
-            Erhvervsakademi. Som kreativ designer arbejder jeg altid
-            struktureret og konsekvent. Jeg er en teamplayer, men kan også
-            arbejde selvstendigt. Mulitmediedesign har givet mig kompetencer
-            indenfor hjemmesideopsætning, UX, UI og kode, hvor jeg på Creative
-            Branding har fået kompetencer indenfor det strategiske og det
-            kreative omkring brandingprocessen, kampagner, kampagnestrategi,
-            brandstrategi, visuelle og verbale identiteter og aktivering af det
-            på kanaler og platforme. Jeg går til alle projekter velplanlagt og
-            struktureret og alt udvikles og baseres på dybdegående research.
-          </p>
-        </div>
-        <div class="grid">
-          <h2 class="">Mine kompetencer</h2>
-          <ul class="list-disc list-inside">
-            <li>Branding</li>
-            <li>strategi</li>
-            <li>Projektledelse</li>
-            <li>Adobepakken</li>
-            <li>Officepakken</li>
-            <li>HTML, CSS og JavaScript</li>
-            <li>Processing</li>
-            <li>Tailwind</li>
-            <li>Figma</li>
-            <li>MM.</li>
-          </ul>
+        <div class="grid gap-2">
+          <div>
+            <h2>Jeg er en teamplayer</h2>
+            <p>
+              Hvordan jeg arbejder - teamplayer Jeg er en teamplayer, men kan
+              også arbejde selvstendigt. Som kreativ designer arbejder jeg altid
+              struktureret og konsekvent. <br /><br />
+              Jeg er uddannet Multimediedesigner fra KEA - Københavns
+              Erhvervsakademi, og studerer lige nu Design og Business på
+              studieretningen Creative Branding på KEA - Københavns
+              Erhvervsakademi.
+            </p>
+          </div>
+          <div>
+            <h2>Min passion</h2>
+            <p>
+              Mulitmediedesign har givet mig kompetencer indenfor
+              hjemmesideopsætning, UX, UI og kode, hvor jeg på Creative Branding
+              har fået kompetencer indenfor det strategiske og det kreative
+              omkring brandingprocessen, kampagner, kampagnestrategi,
+              brandstrategi, visuelle og verbale identiteter og aktivering af
+              det på kanaler og platforme. Jeg går til alle projekter
+              velplanlagt og struktureret og alt udvikles og baseres på
+              dybdegående research.
+            </p>
+          </div>
         </div>
       </div>
       <img src="/media/alberte.webp" alt="" />
+
+      <div>
+        <p>
+          Mulitmediedesign har givet mig kompetencer indenfor
+          hjemmesideopsætning, UX, UI og kode, hvor jeg på Creative Branding har
+          fået kompetencer indenfor det strategiske og det kreative omkring
+          brandingprocessen, kampagner, kampagnestrategi, brandstrategi,
+          visuelle og verbale identiteter og aktivering af det på kanaler og
+          platforme. Jeg går til alle projekter velplanlagt og struktureret og
+          alt udvikles og baseres på dybdegående research.
+        </p>
+      </div>
+      <div class="grid">
+        <h2 class="">Mine kompetencer</h2>
+        <ul class="list-disc list-inside">
+          <li>Branding</li>
+          <li>strategi</li>
+          <li>Projektledelse</li>
+          <li>Adobepakken</li>
+          <li>Officepakken</li>
+          <li>HTML, CSS og JavaScript</li>
+          <li>Processing</li>
+          <li>Tailwind</li>
+          <li>Figma</li>
+          <li>MM.</li>
+        </ul>
+      </div>
     </section>
     <section class="px-56">
       <div class="grid gap-10 text-center">

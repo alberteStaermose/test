@@ -11,7 +11,10 @@ import CircleSection from "../components/CircleSection.vue";
       <article class="grid grid-cols-3">
         <RouterLink to="/pSonja">
           <div class="projectView">
-            <p class="hidden">Café Sonja</p>
+            <div class="grid text-center">
+              <h3>Café Sonja</h3>
+              <p>Rebranding</p>
+            </div>
             <img class="projectView" src="/media/sonjaLogo.webp" alt="" />
           </div>
         </RouterLink>
@@ -20,7 +23,11 @@ import CircleSection from "../components/CircleSection.vue";
 
         <RouterLink to="/pMoebel">
           <div class="projectView">
-            <p class="hidden">Møbelbutikken Valør</p>
+            <div class="grid text-center">
+              <h3>Møbelbutikken Valør</h3>
+              <p>Visuel identitet</p>
+            </div>
+
             <img class="projectView" src="/media/valorOutdoor2.webp" alt="" />
           </div>
         </RouterLink>
@@ -28,7 +35,10 @@ import CircleSection from "../components/CircleSection.vue";
         <!--  -->
         <RouterLink to="/pPolitiken">
           <div class="projectView">
-            <p class="hidden">Politiken Plus</p>
+            <div class="grid text-center">
+              <h3>Politiken Plus</h3>
+              <p>Rebranding</p>
+            </div>
             <img src="/media/politikenEks1.webp" alt="" />
           </div>
         </RouterLink>
@@ -36,21 +46,30 @@ import CircleSection from "../components/CircleSection.vue";
         <!--  -->
         <RouterLink to="/pWhileInBattle"
           ><div class="projectView">
-            <p class="hidden">Danseforestillingen: While In Battle</p>
+            <div class="grid text-center">
+              <h3>Danseforestillingen: While In Battle</h3>
+              <p>Visuel identitet</p>
+            </div>
             <img src="/media/whilePlakatSort.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
         <!--  -->
         <RouterLink to="/pSamyang"
           ><div class="projectView">
-            <p class="hidden">Samyang Foods</p>
+            <div class="grid text-center">
+              <h3>Samyang Foods</h3>
+              <p>Rebranding</p>
+            </div>
             <img src="/media/samyangT-shirts.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
         <!--  -->
         <RouterLink to="/pRF"
           ><div class="projectView">
-            <p class="hidden">Roskilde Festivals pantsystem</p>
+            <div class="grid text-center">
+              <h3>Roskilde Festivals pantsystem</h3>
+              <p>Konceptudvikling</p>
+            </div>
             <img src="/media/rfPlads.webp" alt="" /></div
         ></RouterLink>
         <!--  -->
@@ -91,6 +110,9 @@ import CircleSection from "../components/CircleSection.vue";
 .projectView p {
   display: none;
 }
+.projectView h3 {
+  display: none;
+}
 .projectView:hover p {
   /* display: none; */
   display: block;
@@ -106,6 +128,12 @@ import CircleSection from "../components/CircleSection.vue";
 }
 
 .projectView:hover p {
+  display: block;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.projectView:hover h3 {
   display: block;
   font-size: 20px;
   padding-left: 10px;
