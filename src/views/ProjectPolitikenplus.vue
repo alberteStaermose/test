@@ -49,7 +49,7 @@
           </p>
         </div>
         <div>
-          <h2>Proces</h2>
+          <h2>Research og proces</h2>
           <p>
             Vi startede hele projektet ud med en dybdegående research som vi
             strukturerede ud fra det vi kalder Jhonsons 4C'er, Client, Consumer,
@@ -121,7 +121,7 @@
         </div>
       </article>
       <article>
-        <h2>Startegi</h2>
+        <h2>Strategi</h2>
         <div class="grid grid-cols-3 gap-x-18 gap-y-5">
           <div>
             <h4>Hvad gør vi og hvordan gør vi det?</h4>

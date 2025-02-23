@@ -38,7 +38,7 @@
           </p>
         </div>
         <div>
-          <h2>Proces</h2>
+          <h2>Research og proces</h2>
           <p>
             Jeg startede dette projekt ud med at lægge en struktureret plan for
             min process, hvor jeg her benyttede mig af Trello. Jeg tog et valg

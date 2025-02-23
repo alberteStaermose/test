@@ -46,7 +46,7 @@
           </p>
         </div>
         <div>
-          <h2>Proces</h2>
+          <h2>Research og proces</h2>
           <p>
             Processen for denne opgave tog inspiration i Design Thinking
             metoden, med en eksperimenterende og eksplorativ tilgang. Det vil
