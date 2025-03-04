@@ -8,7 +8,7 @@ import CircleSection from "../components/CircleSection.vue";
     <CircleSection />
 
     <section>
-      <article class="grid grid-cols-3">
+      <article class="grid lg:grid-cols-3">
         <RouterLink to="/pSonja">
           <div class="projectView">
             <div class="grid text-center">
@@ -123,6 +123,7 @@ import CircleSection from "../components/CircleSection.vue";
   /* display: none; */
   background-color: oklch(0.707 0.165 254.624);
 }
+
 .projectView:hover img {
   display: none;
 }
@@ -138,5 +139,20 @@ import CircleSection from "../components/CircleSection.vue";
   font-size: 20px;
   padding-left: 10px;
   padding-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .projectView {
+    height: 200px;
+    background-color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .projectView img {
+    width: 100%;
+  }
 }
 </style>
