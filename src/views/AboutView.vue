@@ -61,7 +61,7 @@
       <div class="grid">
         <ul class="list-disc list-inside">
           <li>Branding</li>
-          <li>strategi</li>
+          <li>Strategi</li>
           <li>Projektledelse</li>
           <li>Adobepakken</li>
           <li>Officepakken</li>
