@@ -27,7 +27,7 @@
       </div>
     </section>
     <section class="grid pl-20 pr-20 gap-10 bg-white">
-      <article class="grid grid-cols-3 p-10 mb-20 gap-10 bg-blue-50">
+      <article class="grid grid-cols-3 p-10 mb-20 gap-10 bg-[#FFFBE0]">
         <div>
           <h2>Clientbrief</h2>
           <p>
