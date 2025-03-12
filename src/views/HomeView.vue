@@ -134,14 +134,14 @@ import CircleSection from "../components/CircleSection.vue";
   font-size: 20px;
   padding-left: 10px;
   padding-top: 10px;
-  color: #facdc5;
+  color: #ffffff;
 }
 .projectView:hover h3 {
   display: block;
   font-size: 20px;
   padding-left: 10px;
   padding-top: 10px;
-  color: #facdc5;
+  color: #ffffff;
 }
 
 @media only screen and (max-width: 600px) {

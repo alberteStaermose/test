@@ -104,7 +104,7 @@ li {
   cursor: pointer; /* Pointer on hover */
 
   /* background: linear-gradient(to bottom right, #1549ff, #061fdf, #002092); */
-  background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
+  background: linear-gradient(to bottom right, #c02425, #ec4426, #ff872a);
 
   aspect-ratio: 1 / 1; /* Ensures a square shape */
 
@@ -116,7 +116,7 @@ li {
 }
 
 .custom-button:hover {
-  background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
+  background: linear-gradient(to bottom right, #c02425, #ec4426, #ff872a);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
   transform: scale(1);
 }
