@@ -3,7 +3,7 @@
 <template>
   <body class="grid gap-24 mb-20">
     <section class="flex items-end h-[40vh] px-32 justify-center bg-[#04151E]">
-      <h1 class="text-white mb-8">Alberte Stærmose</h1>
+      <h1 class="text-[#FFFBE0] mb-8">Alberte Stærmose</h1>
     </section>
 
     <section class="grid grid-cols-2 px-56 gap-x-20 gap-y-16">

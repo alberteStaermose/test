@@ -20,7 +20,7 @@ onMounted(() => {
 
   function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = "blue";
+    ctx.fillStyle = "#EC4426";
 
     const numCircles = 16;
     const circleSize = 16;
@@ -79,7 +79,7 @@ onMounted(() => {
 <template>
   <main>
     <div id="cirkler">
-      <div class="myBox text-white text-center">
+      <div class="myBox text-[#04151E] text-center">
         <h1 class="">Alberte Stærmose</h1>
         <h4>Kreativ Designer</h4>
       </div>
@@ -92,7 +92,7 @@ onMounted(() => {
 <style>
 #cirkler {
   /* z-index: -30; */
-  background-color: #04151e;
+  background-color: #fffbe0;
 }
 
 .myBox {

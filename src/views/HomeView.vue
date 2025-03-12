@@ -121,7 +121,8 @@ import CircleSection from "../components/CircleSection.vue";
 .projectView:hover {
   /* height: 300px; */
   /* display: none; */
-  background-color: oklch(0.707 0.165 254.624);
+  /* background-color: oklch(0.707 0.165 254.624); */
+  background-color: #90200d;
 }
 
 .projectView:hover img {
@@ -133,12 +134,14 @@ import CircleSection from "../components/CircleSection.vue";
   font-size: 20px;
   padding-left: 10px;
   padding-top: 10px;
+  color: #facdc5;
 }
 .projectView:hover h3 {
   display: block;
   font-size: 20px;
   padding-left: 10px;
   padding-top: 10px;
+  color: #facdc5;
 }
 
 @media only screen and (max-width: 600px) {

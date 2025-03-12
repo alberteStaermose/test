@@ -18,7 +18,7 @@
   <RouterView />
 
   <footer>
-    <section class="flex justify-center pt-10 pb-30 gap-28 bg-white">
+    <section class="flex justify-center pt-10 pb-30 gap-28 bg-[#fffbe0]">
       <div class="buttonContainer">
         <a
           href="https://www.linkedin.com/in/alberte-stærmose-b182b2232"

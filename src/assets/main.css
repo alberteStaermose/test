@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities; */
 
+body {
+  background-color: #fffbe0;
+}
+
 video {
   object-fit: cover;
 }
@@ -99,7 +103,9 @@ li {
   justify-content: center;
   cursor: pointer; /* Pointer on hover */
 
-  background: linear-gradient(to bottom right, #1549ff, #061fdf, #002092);
+  /* background: linear-gradient(to bottom right, #1549ff, #061fdf, #002092); */
+  background: linear-gradient(to bottom right, #c02425, #fe675c, #ff872a);
+
   aspect-ratio: 1 / 1; /* Ensures a square shape */
 
   color: white;
