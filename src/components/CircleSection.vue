@@ -20,7 +20,7 @@ onMounted(() => {
 
   function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = "#EC4426";
+    ctx.fillStyle = "#FC4117";
 
     const numCircles = 16;
     const circleSize = 16;

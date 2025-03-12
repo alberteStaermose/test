@@ -116,7 +116,7 @@ li {
 }
 
 .custom-button:hover {
-  background: linear-gradient(to bottom right, #c02425, #ec4426, #ff872a);
+  background: linear-gradient(to bottom right, #fc85de, #f4b8e5, #fc85de);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
   transform: scale(1);
 }
