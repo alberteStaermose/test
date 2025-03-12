@@ -122,7 +122,7 @@ import CircleSection from "../components/CircleSection.vue";
   /* height: 300px; */
   /* display: none; */
   /* background-color: oklch(0.707 0.165 254.624); */
-  background-color: #90200d;
+  background-color: #04151e;
 }
 
 .projectView:hover img {
