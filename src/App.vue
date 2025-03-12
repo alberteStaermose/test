@@ -9,7 +9,7 @@
 
       <div class="buttonContainer">
         <RouterLink class="custom-button w-24 h-24" to="/about"
-          >About</RouterLink
+          >OM mig</RouterLink
         >
       </div>
     </nav>
@@ -20,8 +20,11 @@
   <footer>
     <section class="flex justify-center pt-10 pb-30 gap-28 bg-white">
       <div class="buttonContainer">
-      <a href="https://www.linkedin.com/in/alberte-stærmose-b182b2232" class="custom-button w-36 h-36">Linked-IN</a>
-
+        <a
+          href="https://www.linkedin.com/in/alberte-stærmose-b182b2232"
+          class="custom-button w-36 h-36"
+          >Linked-IN</a
+        >
       </div>
       <div class="buttonContainer">
         <a
