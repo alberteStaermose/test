@@ -20,7 +20,7 @@ onMounted(() => {
 
   function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = "#FC4117";
+    ctx.fillStyle = "#F4B8E5";
 
     const numCircles = 16;
     const circleSize = 16;
@@ -79,9 +79,9 @@ onMounted(() => {
 <template>
   <main>
     <div id="cirkler">
-      <div class="myBox text-[#04151E] text-center">
+      <div id="heroOverskrift" class="myBox text-[#FC4117] text-center">
         <h1 class="">Alberte Stærmose</h1>
-        <h4>Kreativ Designer</h4>
+        <h2>Kreativ Designer</h2>
       </div>
       <!-- Use ref for the canvas -->
       <canvas ref="canvasRef" width="1000px" height="1000px"></canvas>
