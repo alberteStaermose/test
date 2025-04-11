@@ -1,5 +1,5 @@
 <template>
-  <header class="sticky top-0 z-20 hidden lg:block w-screen">
+  <header class="sticky top-0 z-20 w-screen">
     <nav class="flex justify-between pl-5 pr-5 pt-3 absolute top-0 w-screen">
       <div class="buttonContainer">
         <RouterLink class="custom-button w-24 h-24" to="/">

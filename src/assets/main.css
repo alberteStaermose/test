@@ -121,7 +121,7 @@ li {
 
   color: white;
   text-transform: uppercase;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25); */
   transform: scale(0.8);
   transition: all 0.3s ease-in-out;
   font-family: "Varela Round", serif;
@@ -132,7 +132,7 @@ li {
 
 .custom-button:hover {
   background: linear-gradient(to bottom right, #fc85de, #f4b8e5, #fc85de);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
   transform: scale(1);
 }
 
