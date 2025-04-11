@@ -127,7 +127,7 @@
           </div>
           <div class="">
             <a
-              class="custom-button"
+              class="custom-button p-5"
               href="https://master--alberteogjosefine.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
