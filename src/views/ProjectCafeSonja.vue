@@ -18,7 +18,7 @@
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Kunden:</h3>
-          <p>Politiken</p>
+          <p>Café Sonja</p>
         </div>
         <div class="flex items-baseline gap-1">
           <h3>Min rolle:</h3>

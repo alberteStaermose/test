@@ -9,6 +9,17 @@ import CircleSection from "../components/CircleSection.vue";
 
     <section>
       <article class="grid lg:grid-cols-3">
+        <RouterLink to="/pBufferlo">
+          <div class="projectView">
+            <div class="grid text-center">
+              <h3>Bufferlo 5G router</h3>
+              <p>Rebranding og kampagne</p>
+            </div>
+            <img class="projectView" src="/media/bufferlo.webp" alt="" />
+          </div>
+        </RouterLink>
+        <!--  -->
+        <!--  -->
         <RouterLink to="/pSonja">
           <div class="projectView">
             <div class="grid text-center">
