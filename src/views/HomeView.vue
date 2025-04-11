@@ -8,7 +8,7 @@ import CircleSection from "../components/CircleSection.vue";
     <CircleSection />
 
     <section>
-      <article class="grid lg:grid-cols-3">
+      <article class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1">
         <RouterLink to="/pBufferlo">
           <div class="projectView">
             <div class="grid text-center">
@@ -110,14 +110,20 @@ import CircleSection from "../components/CircleSection.vue";
 .projectView {
   height: 260px;
   background-color: white;
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
-}
-/* .projectView img {
+  display: flex;
   width: 100%;
-} */
+  position: relative;
+}
+
+.projectView img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .projectView p {
   display: none;
 }
@@ -156,17 +162,5 @@ import CircleSection from "../components/CircleSection.vue";
 }
 
 @media only screen and (max-width: 600px) {
-  .projectView {
-    height: 200px;
-    background-color: white;
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-  }
-
-  .projectView img {
-    width: 100%;
-  }
 }
 </style>
